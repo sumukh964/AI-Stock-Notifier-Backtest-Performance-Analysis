@@ -67,6 +67,8 @@ Created an interactive dashboard showing:
 
 **Dashboard:** 
 
+<img width="1197" height="672" alt="image" src="https://github.com/user-attachments/assets/0b3a013f-808d-403b-8de1-4d3e015aa490" />
+
 ## **Tools Used**
 
 Python, Pandas, NumPy, SciPy, yfinance and Power BI.
