@@ -1,0 +1,395 @@
+alert_id,date,time,company,type,top_headline,reject_reason
+37,2026-11-13,09:09,Nomura,fall,"Vodafone Idea shares fall 2% after Q2 results; Nomura flags margin pressure, weak ARPU growth",repeat_of_earlier_alert
+38,2026-11-13,09:09,Vodafone Idea,fall,"Vodafone Idea shares fall 2% after Q2 results; Nomura flags margin pressure, weak ARPU growth",repeat_of_earlier_alert
+40,2026-11-13,09:09,Alkem Labs' Q2,fall,"Alkem Labs' Q2 net profit falls 14% to Rs 667 crore, shares decline 3%",repeat_of_earlier_alert
+41,2026-11-12,09:22,PN Gadgil Jewellers,rise,"PN Gadgil Jewellers: Strong demand, expansion to drive earnings growth",unknown_or_unlisted
+44,2026-11-12,09:22,Rs 202,rise,"Q2 results LIVE: Page Industries' profit up 3.8% to Rs 202 cr, announces Rs 150 dividend",repeat_of_earlier_alert
+47,2026-11-11,08:55,Rs 18,rise,Q2 results impact: Rentomojo shares jump up to 10% as profit surges 125% QoQ to Rs 18 crore,amount_not_company
+48,2026-11-11,08:55,QoQ,rise,Q2 results impact: Rentomojo shares jump up to 10% as profit surges 125% QoQ to Rs 18 crore,index_or_market
+51,2026-11-10,09:21,Trump,fall,Crude oil prices fall to $91 a barrel as Trump signals pause in further military strikes on Iran,foreign_company
+52,2026-11-10,09:21,Nvidia,fall,Nvidia's shares slide 5% as chip giant probes CEO Huang over spy claims,foreign_company
+59,2026-11-09,09:14,Trump,fall,"Crude oil price today: Brent slips below $99, WTI near $91 as Trump signals ‘highly unlikely’ US strikes on Iran",foreign_company
+61,2026-11-08,08:40,Bank Nifty,rise,"Muhurat Trading Plan: Can Nifty 50 extend its rally for 8th straight session, Bank Nifty hold above 59,000?",index_or_market
+63,2026-11-06,08:58,Nasdaq,fall,"Nvidia loses $440 billion as Nasdaq crashes 5.5%; Tesla, SpaceX and Big Tech stocks wipe out trillions",index_or_market
+64,2026-11-06,08:58,Nvidia,fall,"Nvidia loses $440 billion as Nasdaq crashes 5.5%; Tesla, SpaceX and Big Tech stocks wipe out trillions",foreign_company
+70,2026-11-04,08:42,SME,fall,Ajwa Projects shares debut flat on BSE SME at issue price of Rs 203,index_or_market
+72,2026-11-04,08:42,MCX,fall,MCX shares fall 5% as Q2 results miss estimates; Motilal Oswal gives 'Neutral' rating,repeat_of_earlier_alert
+75,2026-11-03,09:04,AUM,rise,"Bajaj Finserv Q2 results: Net profit rises 23% to Rs 2,758 crore; NII grows 24%, AUM up 26%",index_or_market
+76,2026-11-03,09:04,"Rs 2,758",rise,"Bajaj Finserv Q2 results: Net profit rises 23% to Rs 2,758 crore; NII grows 24%, AUM up 26%",amount_not_company
+79,2026-11-02,08:57,Reliance Industries,rise,Reliance Industries m-cap tops Rs 17 lakh crore as shares surge over 8% after Q2 results; biggest gain in 6 yrs,repeat_of_earlier_alert
+83,2026-11-01,08:48,EKI Energy,fall,"Sebi bars EKI Energy, MD Manish Dabkara from securities market over financial misrepresentation; imposes penalty",unknown_or_unlisted
+84,2026-11-01,08:48,Amazon,fall,"Wall Street update: Amazon, Alphabet sell-offs signal growing investor scrutiny of US tech earnings",foreign_company
+86,2026-11-01,08:48,Nasdaq,fall,Nasdaq faces $2 trillion wipeout in October as AI spending fears deepen,index_or_market
+87,2026-11-01,08:48,Rs 1,fall,SEBI imposes Rs 1 crore penalty on CDSL for multiple compliance lapses found during inspection in FY24,amount_not_company
+88,2026-10-31,08:02,Nasdaq,fall,Nasdaq faces $2 trillion wipeout in October as AI spending fears deepen,index_or_market
+90,2026-10-31,08:02,PAT,rise,Max Healthcare Q2 network PAT up 10% at Rs 448 crore,repeat_of_earlier_alert
+91,2026-10-31,08:02,"Rs 3,066",rise,"Delhivery Q2: Revenues increase 20% to Rs 3,066 crore, profits up; Increases growth forecast",amount_not_company
+92,2026-10-31,08:02,Rs 1,fall,SEBI imposes Rs 1 crore penalty on CDSL for multiple compliance lapses found during inspection in FY24,amount_not_company
+96,2026-10-30,08:08,Suzlon Energy,fall,"Suzlon Energy shares crash 10% after Q2 results; JM Financial downgrades stock to add, revises target price",repeat_of_earlier_alert
+103,2026-10-28,07:58,Fadnavis,rise,"Fadnavis congratulates Jio on blockbuster listing, says debut showcases India’s capabilities to world",foreign_company
+106,2026-10-28,07:58,HUL,rise,"HUL Q2 results: Net profit rises 6%, beats estimates; company declares Rs 19 dividend",repeat_of_earlier_alert
+108,2026-10-27,07:22,BLW,rise,"Momentum Stocks: S A Tech Software, Tera Software, Sona BLW Precision rise up to 12% on sheer momentum",unknown_or_unlisted
+109,2026-10-27,07:22,Tera Software,rise,"Momentum Stocks: S A Tech Software, Tera Software, Sona BLW Precision rise up to 12% on sheer momentum",unknown_or_unlisted
+110,2026-10-27,07:22,Sigma Advanced Systems,fall,Buzzing Stocks: Aequs shares plunge 12% as Q2 losses widen; Sigma Advanced Systems gains 5% on order win,unknown_or_unlisted
+120,2026-10-24,06:55,Bank Nifty’s,fall,"Technical View: Nifty 50 faces further downside if it fails to defend 200-week EMA; Bank Nifty’s 53,700 support in focus as India VIX hits 17",regulator_or_event
+121,2026-10-24,06:55,EMA,fall,"Technical View: Nifty 50 faces further downside if it fails to defend 200-week EMA; Bank Nifty’s 53,700 support in focus as India VIX hits 17",index_or_market
+122,2026-10-24,06:55,ADR,fall,Infosys Q2 results: IT major's ADR falls 6% after it lowers annual revenue growth guidance,repeat_of_earlier_alert
+124,2026-10-22,07:11,Visdem Technosys,fall,"Momentum Stocks: Globale Tessile, Tarapur Transformers, Visdem Technosys under pressure, down up to 6%",unknown_or_unlisted
+125,2026-10-22,07:11,Globale Tessile,fall,"Momentum Stocks: Globale Tessile, Tarapur Transformers, Visdem Technosys under pressure, down up to 6%",unknown_or_unlisted
+127,2026-10-22,07:11,Bharat Electronics,fall,Bharat Electronics shares fall over 2% despite Rs 770-crore radar deal,repeat_of_earlier_alert
+128,2026-10-22,07:11,FMCG,fall,"Price Action: Indosolar share price slips 2% on weak earnings; auto, FMCG, metal stocks under pressure",index_or_market
+129,2026-10-21,07:09,Transrail Lighting,rise,Price Action: Transrail Lighting jumps 5% on stake acquisition; L&T Technology Services surges 12% post Q2 earnings,unknown_or_unlisted
+132,2026-10-21,07:09,Truist,fall,"Buzzing Stocks: Infosys jumps 2% on Truist collaboration; Sobha, SML Mahindra, Just Dial fall 3-8% after Q2 earnings",ambiguous_headline_several_stocks
+134,2026-10-20,07:14,PSU,fall,Live: Q2 results cheer PSU banking stocks in dull market; Rupee falls 32 paise | Closing Bell,index_or_market
+136,2026-10-20,07:14,JSW Steel,rise,JSW Steel rises 2.5% to become top Nifty gainer as Odisha HC quashes Rs 696 crore demand,repeat_of_earlier_alert
+137,2026-10-20,07:14,AlfAccurate,rise,"Daily Voice: IT stocks rebound, but are earnings prospects really improving? AlfAccurate' Rajesh Kothari answers",broker_or_agency
+139,2026-10-19,07:23,Tonbo Imaging,rise,Tonbo Imaging India IPO subscribed 10x so far on Day 3; GMP jumps to 75%,unknown_or_unlisted
+140,2026-10-19,07:23,Rs 363,rise,"Q2 Results 2026 LIVE: HFCL net profit rises 434% to Rs 363 crore, shares rise 3%",amount_not_company
+141,2026-10-19,07:23,Jai,rise,"Momentum Stocks: Smartlink Net, Jay Bharat Maruti, Jai Corp rise up to 16% on sheer momentum",unknown_or_unlisted
+146,2026-10-18,07:01,ICICI Bank Q2,rise,"ICICI Bank Q2 results: Net profit rises 20% to Rs 14,843 crore, beats estimates; NII up 18%",repeat_of_earlier_alert
+148,2026-10-18,07:01,HDFC Bank,rise,"HDFC Bank Q2 results: Net profit rises 4.7% to Rs 19,510 crore, broadly meets estimates; asset quality improves",repeat_of_earlier_alert
+149,2026-10-17,06:38,SME,rise,"SEBI’s proposed SME IPO overhaul: Fewer weak issuers, lower costs and a bigger test for investor demand",index_or_market
+150,2026-10-17,06:38,Closing Bell,rise,"Live: Nifty, Sensex surge up to 3% this week; rupee strengthens over 1% | Closing Bell",index_or_market
+152,2026-10-17,06:38,AT-1,fall,Yes Bank shares tumble 17% in two days on SC's AT-1 bond verdict; S&P expects lender to remain adequately capitalised,repeat_of_earlier_alert
+153,2026-10-17,06:38,Bank,fall,Yes Bank shares tumble 17% in two days on SC's AT-1 bond verdict; S&P expects lender to remain adequately capitalised,repeat_of_earlier_alert
+154,2026-10-16,06:47,Sunrest Lifescience,rise,"Momentum Stocks: Blue Coast, Sunrest Lifescience, Quick Heal Technologies gain on sheer momentum",unknown_or_unlisted
+155,2026-10-16,06:47,Blue Coast,rise,"Momentum Stocks: Blue Coast, Sunrest Lifescience, Quick Heal Technologies gain on sheer momentum",unknown_or_unlisted
+157,2026-10-16,06:47,Wipro,rise,"Wipro shares rise 2% after Q2 results; Nomura sees 15% upside, retains Buy rating",repeat_of_earlier_alert
+159,2026-10-15,07:02,Modi Naturals,rise,"Momentum Stocks: Modi Naturals, Godavari Biorefineries, Shoppers Stop rise up to 16% on sheer momentum",unknown_or_unlisted
+161,2026-10-15,07:02,CLSA,fall,"BHEL shares fall over 4% despite stellar Q2; CLSA flags rich valuations, JM Financial raises target",repeat_of_earlier_alert
+162,2026-10-15,07:02,BHEL,fall,"BHEL shares fall over 4% despite stellar Q2; CLSA flags rich valuations, JM Financial raises target",repeat_of_earlier_alert
+164,2026-10-14,07:10,HSBC,rise,HSBC sees higher chance of more rate hikes after India’s CPI inflation jumps to 5.5%,broker_or_agency
+166,2026-10-14,07:10,Prestige Estates,rise,Prestige Estates pre-sales beat estimates at Rs 72.25 billion in Q2; Nomura maintains FY27 forecast,repeat_of_earlier_alert
+170,2026-10-13,09:02,Rs 69,fall,"Lost Rs 35 lakh in stock market, debt swelled to Rs 69 lakh: Reddit post details job loss and financial distress",amount_not_company
+174,2026-10-12,08:42,"Delaplex, Neochem Bio",rise,"Momentum Stocks: Delaplex, Neochem Bio, Aeroflex Industries gain up to 16% on sheer momentum",unknown_or_unlisted
+175,2026-10-12,08:42,Bank Nifty,fall,"Bank Nifty slides nearly 500 points as RBI liquidity measures, rising bond yields weigh on bank stocks",index_or_market
+176,2026-10-12,08:42,FSSAI,fall,Milky Mist stock down 4.5% despite clarification on FSSAI action against its paneer products: How to trade the newly-listed stock,regulator_or_event
+177,2026-10-12,08:42,Leisure,fall,Buzzing Stocks: Lenskart Solutions shares fall 5% after 1.67% equity block deal; Waterways Leisure jumps 9% on Q2 profit,index_or_market
+178,2026-10-12,08:42,Lenskart Solutions,fall,Buzzing Stocks: Lenskart Solutions shares fall 5% after 1.67% equity block deal; Waterways Leisure jumps 9% on Q2 profit,unknown_or_unlisted
+179,2026-10-11,08:22,Bank Nifty,fall,"Technical View: Nifty 50 snaps 8-week fall, Bullish Harami signals a reversal in Nifty 50, but follow-through buying needed next week; 55,500 key for further upside in Bank Nifty",index_or_market
+180,2026-10-11,08:22,Alpha ’s Mukesh Jindal,rise,Daily Voice: Alpha Capital’s Mukesh Jindal sees 7%+ growth within reach if oil prices cool,broker_or_agency
+182,2026-10-11,08:22,DMart,rise,"DMart’s Q2FY27 net profit rises 8.5% to Rs 743 crore, revenue grows 17.8%",repeat_of_earlier_alert
+183,2026-10-10,08:10,ESDS Software Solution,rise,ESDS Software Solution shares extend rise to 3rd straight session following 7 days of lower circuit,unknown_or_unlisted
+184,2026-10-10,08:10,Alpha ’s Mukesh Jindal,rise,Daily Voice: Alpha Capital’s Mukesh Jindal sees 7%+ growth within reach if oil prices cool,broker_or_agency
+185,2026-10-10,08:10,netizens,fall,"F&O trader claims Rs 61 lakh loss today as he 'couldn’t wake up on time'; avoid BTST, say netizens",regulator_or_event
+186,2026-10-10,08:10,BTST,fall,"F&O trader claims Rs 61 lakh loss today as he 'couldn’t wake up on time'; avoid BTST, say netizens",index_or_market
+187,2026-10-10,08:10,F&O,fall,"F&O trader claims Rs 61 lakh loss today as he 'couldn’t wake up on time'; avoid BTST, say netizens",index_or_market
+188,2026-10-09,08:33,Treasury,rise,"US 10-year Treasury yields risk hitting 6% for first time since 2000, Pimco says",index_or_market
+192,2026-10-09,08:33,Weekly Tactical Pick,rise,"Weekly Tactical Pick: Pricing tailwinds, new projects could lift returns for this chemical company",index_or_market
+193,2026-10-08,08:29,Sollfege Smart Electronics,fall,Sollfege Smart Electronics SME shares hit 5% lower circuit post 90% listing gains,unknown_or_unlisted
+195,2026-10-08,08:29,"Paytm, Pine Labs",fall,"MobiKwik, Paytm, Pine Labs fall up to 7% on UPI MDR deferral report",unknown_or_unlisted
+198,2026-10-07,08:13,ARCIL,fall,Q1 results impact: Glass Wall Systems shares fall 7% as PAT declines; ARCIL rises 10%,unknown_or_unlisted
+199,2026-10-07,08:13,PAT,fall,Q1 results impact: Glass Wall Systems shares fall 7% as PAT declines; ARCIL rises 10%,index_or_market
+200,2026-10-07,08:13,Glass Wall Systems,fall,Q1 results impact: Glass Wall Systems shares fall 7% as PAT declines; ARCIL rises 10%,unknown_or_unlisted
+202,2026-10-07,08:13,PVR INOX,fall,Buzzing Stocks: Titan down 4% post Q2 business performance; PVR INOX up 7% after CLSA keeps 'outperform',repeat_of_earlier_alert
+204,2026-10-05,08:27,MTAR,fall,"Defence shares extend decline for 2nd session; BEL, MTAR drag index as HAL bucks trend; check gainers and losers",unknown_or_unlisted
+207,2026-10-05,08:27,EMI,fall,"""Laid off with Rs 30 lakh family loan"": Techie faces EMI burden, ageing parents and uncertain job prospects",index_or_market
+208,2026-10-05,08:27,Rs 30,fall,"""Laid off with Rs 30 lakh family loan"": Techie faces EMI burden, ageing parents and uncertain job prospects",amount_not_company
+209,2026-10-04,07:50,SBI Securities',fall,"Chartist Talk: Is Nifty more likely to witness a pullback than a breakdown below 22,000 next week? SBI Securities' Sudeep Shah answers",broker_or_agency
+210,2026-10-04,07:50,SMC Global Securities,fall,SEBI fines SMC Global Securities over lapses in supervising authorised person,broker_or_agency
+211,2026-10-03,07:40,SBI Securities',fall,"Chartist Talk: Is Nifty more likely to witness a pullback than a breakdown below 22,000 next week? SBI Securities' Sudeep Shah answers",broker_or_agency
+212,2026-10-03,07:40,Bank Nifty,fall,"Technical View: Nifty 50 under bearish grip for eighth week; break below April low could put 22,000 at risk next week, 54,000 crucial for Bank Nifty",index_or_market
+214,2026-10-03,07:40,HDFC Bank,rise,HDFC Bank ADRs surge 4% as RBI approves Anup Bagchi as new MD & CEO,repeat_of_earlier_alert
+215,2026-10-03,07:40,SMC Global Securities,fall,SEBI fines SMC Global Securities over lapses in supervising authorised person,broker_or_agency
+216,2026-10-02,08:00,SMC Global Securities,fall,SEBI fines SMC Global Securities over lapses in supervising authorised person,broker_or_agency
+219,2026-10-02,08:00,Closing Bell,fall,"Nifty slips 2% this week, FIIs offload over Rs 26,000 crore | Closing Bell",index_or_market
+220,2026-10-02,08:00,"Rs 26,000",fall,"Nifty slips 2% this week, FIIs offload over Rs 26,000 crore | Closing Bell",amount_not_company
+228,2026-09-29,07:57,Jefferies,fall,Buzzing Stocks: HCL Tech down on acquiring Croatia-based Robotiq.ai; Petronet LNG dips 2% as Jefferies keeps 'underperform',ambiguous_headline_several_stocks
+230,2026-09-29,07:57,Robotiq.ai,fall,Buzzing Stocks: HCL Tech down on acquiring Croatia-based Robotiq.ai; Petronet LNG dips 2% as Jefferies keeps 'underperform',unknown_or_unlisted
+232,2026-09-28,08:18,EGR,rise,Augmont shares hit 10% upper circuit as NSE empanels company as key partner for promotion of EGR,unknown_or_unlisted
+235,2026-09-28,08:18,Hero Motors,rise,Hero Motors shares hit 10% lower circuit; stock still up 56% from listing price,unknown_or_unlisted
+236,2026-09-28,08:18,CNBC,fall,"SEBI may form a panel to consider self-listing norms for exchanges, reports CNBC-TV18; BSE shares fall 2%",broker_or_agency
+238,2026-09-27,07:40,Ola Electric,fall,"Ola Electric shares fall up to 9%, snap 4-day run, ahead of board meeting to consider fundraise",repeat_of_earlier_alert
+239,2026-09-27,07:40,Rs 167,fall,"Meesho shares fall 6% as Nomura warns of premium valuation, initiates 'Reduce' with Rs 167 target price",repeat_of_earlier_alert
+240,2026-09-27,07:40,Nomura,fall,"Meesho shares fall 6% as Nomura warns of premium valuation, initiates 'Reduce' with Rs 167 target price",repeat_of_earlier_alert
+241,2026-09-27,07:40,Meesho,fall,"Meesho shares fall 6% as Nomura warns of premium valuation, initiates 'Reduce' with Rs 167 target price",repeat_of_earlier_alert
+243,2026-09-26,07:08,Rs 371,rise,"Juniper Green shares rise 3%; JM Financial initiates 'Buy', sees 39% upside to Rs 371 target",amount_not_company
+246,2026-09-26,07:08,Meesho,fall,"Meesho shares fall 6% as Nomura warns of premium valuation, initiates 'Reduce' with Rs 167 target price",repeat_of_earlier_alert
+247,2026-09-25,07:11,Xelpmoc Design,rise,"Momentum Stocks: Transport Corp, Xelpmoc Design, Infinium Pharma rally up to 8% on strong momentum",unknown_or_unlisted
+250,2026-09-25,07:11,ESDS Software,fall,ESDS Software shares hit 5% lower circuit on weak Q1 results,unknown_or_unlisted
+251,2026-09-25,07:11,IRDAI,fall,"Not just PB Fintech, this smallcap stock fell 36% in two days on IRDAI proposals",manual_exclude_wrong_subject
+253,2026-09-23,07:25,QIP,rise,"Aditya Infotech shares hit 5% upper circuit as company launches QIP to raise up to Rs 1,500 crore",index_or_market
+254,2026-09-23,07:25,Infotech,rise,"Aditya Infotech shares hit 5% upper circuit as company launches QIP to raise up to Rs 1,500 crore",unknown_or_unlisted
+255,2026-09-23,07:25,Texmaco Infra,rise,Buzzing Stocks: Texmaco Infra gains 4% on block deal; Allcargo Terminals jumps on 6% rise in August volumes,unknown_or_unlisted
+256,2026-09-23,07:25,Loyal Textiles,rise,"Momentum Stocks: Loyal Textiles, Ola Electric, Jay Bee Laminations gain up to 15% on sheer momentum",unknown_or_unlisted
+257,2026-09-23,07:25,Multiples  Equity,fall,"Prime Focus arm Brahma AI raises $150 mn at $2-bn valuation from Multiples Private Equity, shares fall 4%",regulator_or_event
+258,2026-09-22,07:23,ITDC,rise,"Momentum Stocks: ITDC, Aastha Spintex, Rashi Peripherals share up 4-6% on sheer momentum",unknown_or_unlisted
+259,2026-09-22,07:23,CLSA,fall,"IT index falls for third day, LTM, HCLTech, lead losses; CLSA turns cautious amid weak macro fundamentals",broker_or_agency
+260,2026-09-22,07:23,LTM,fall,"IT index falls for third day, LTM, HCLTech, lead losses; CLSA turns cautious amid weak macro fundamentals",unknown_or_unlisted
+261,2026-09-22,07:23,Augmont Enterprises,fall,Newly-listed Augmont Enterprises shares fall 3% as Q1 net profit declines 15% to Rs 58 crore,unknown_or_unlisted
+262,2026-09-22,07:23,Rs 58,fall,Newly-listed Augmont Enterprises shares fall 3% as Q1 net profit declines 15% to Rs 58 crore,amount_not_company
+263,2026-09-21,07:41,Welspun,rise,"Welspun Corp shares gain up to 5% as its unit wins Saudi Aramco order worth Rs 2,000 crore; stock up 240% YTD",unknown_or_unlisted
+264,2026-09-21,07:41,H-1B,fall,"Trump renews $100,000 fee on H-1B visas: Nifty IT under pressure, sectoral index falls 0.7%",index_or_market
+267,2026-09-21,07:41,OFSS,fall,OFSS shares fall 6.5% as report says Oracle's $18-billion data centre debt under pressure,repeat_of_earlier_alert
+268,2026-09-20,07:30,"Rs 40,000",fall,"Tata group shares lose up to Rs 40,000 crore amid Tata Sons listing row; how you should trade these three stocks",amount_not_company
+269,2026-09-20,07:30,Tata,fall,"Tata group shares lose up to Rs 40,000 crore amid Tata Sons listing row; how you should trade these three stocks",regulator_or_event
+270,2026-09-20,07:30,AMC,rise,"Tax parity, deeper markets needed to revive debt fund growth, say AMC chiefs",regulator_or_event
+271,2026-09-20,07:30,"Rs 1,020",rise,"FIIs turn net buyers with Rs 600 crore inflow; DIIs add Rs 1,020 crore on Sep 18",amount_not_company
+272,2026-09-20,07:30,Rs 600,rise,"FIIs turn net buyers with Rs 600 crore inflow; DIIs add Rs 1,020 crore on Sep 18",amount_not_company
+273,2026-09-19,07:05,Rs 600,rise,"FIIs turn net buyers with Rs 600 crore inflow; DIIs add Rs 1,020 crore on Sep 18",amount_not_company
+274,2026-09-19,07:05,Tata Sons,fall,Live: Tata Group stocks fall amid rift over Tata Sons listing | Closing Bell,regulator_or_event
+275,2026-09-19,07:05,Tata,fall,Live: Tata Group stocks fall amid rift over Tata Sons listing | Closing Bell,regulator_or_event
+276,2026-09-19,07:05,Jindal Supreme IPO,rise,"NSE, Hero Motors, Jindal Supreme IPO GMPs surge up to 35% - Check grey market premiums of all 5 IPOs today",unknown_or_unlisted
+277,2026-09-19,07:05,Hero Motors,rise,"NSE, Hero Motors, Jindal Supreme IPO GMPs surge up to 35% - Check grey market premiums of all 5 IPOs today",unknown_or_unlisted
+280,2026-09-18,07:07,Tata Sons,fall,"Tata Chemicals shares crash 7.5% amid Tata Sons listing row; TMPV, TCS down 2%: Here's why",ambiguous_headline_several_stocks
+282,2026-09-18,07:07,"Rs 5,400",rise,"BEML shares gain over 3% after Rs 5,400 crore high-speed rail order win",amount_not_company
+284,2026-09-17,07:14,CLSA,fall,Silver market heads for sixth straight deficit as stocks deplete; CLSA flags supply squeeze,broker_or_agency
+289,2026-09-15,07:16,Axis,rise,"PSU stake sales worth Rs 6.6 lakh crore could ease FPI outflows and support fiscal goals, says Axis Capital",unknown_or_unlisted
+290,2026-09-15,07:16,FPI,rise,"PSU stake sales worth Rs 6.6 lakh crore could ease FPI outflows and support fiscal goals, says Axis Capital",index_or_market
+291,2026-09-15,07:16,Rs 6.6,rise,"PSU stake sales worth Rs 6.6 lakh crore could ease FPI outflows and support fiscal goals, says Axis Capital",amount_not_company
+292,2026-09-15,07:16,PSU,rise,"PSU stake sales worth Rs 6.6 lakh crore could ease FPI outflows and support fiscal goals, says Axis Capital",index_or_market
+293,2026-09-15,07:16,Omnia,fall,"Solar Industries falls 9% as company to acquire South Africa's Omnia Holdings for nearly Rs 13,000 cr",unknown_or_unlisted
+294,2026-09-14,07:39,Julius Baer,fall,"Daily Voice: Does risk-reward remain attractive in private banks? Rupen Rajguru of Julius Baer says weak monsoon, elevated oil prices could push inflation higher",broker_or_agency
+295,2026-09-14,07:39,Oracle,fall,Oracle’s Larry Ellison cancels plan to sell up to 50 million shares,foreign_company
+296,2026-09-14,07:39,GMP,rise,"Pranav Constructions shares to list tomorrow; GMP signals 36% premium, analysts advise partial profit booking",index_or_market
+297,2026-09-14,07:39,Pranav Constructions,rise,"Pranav Constructions shares to list tomorrow; GMP signals 36% premium, analysts advise partial profit booking",unknown_or_unlisted
+298,2026-09-14,07:39,"Rs 13,138",fall,"FPIs withdraw Rs 13,138 crore from equities in September so far amid global uncertainty",amount_not_company
+299,2026-09-13,07:14,Oracle,fall,Oracle’s Larry Ellison cancels plan to sell up to 50 million shares,foreign_company
+300,2026-09-13,07:14,Alpha ’s Mukesh Jindal,rise,"Daily Voice: Market correction offers opportunity in four quality sectors, says Alpha Capital’s Mukesh Jindal",broker_or_agency
+301,2026-09-13,07:14,ESDS Software,rise,"ESDS Software shares extend post-listing rally, hit 10% upper circuit; Maithan Alloys acquires 0.65% stake",unknown_or_unlisted
+302,2026-09-12,06:56,Alpha ’s Mukesh Jindal,rise,"Daily Voice: Market correction offers opportunity in four quality sectors, says Alpha Capital’s Mukesh Jindal",broker_or_agency
+303,2026-09-12,06:56,ESDS Software,rise,"ESDS Software shares extend post-listing rally, hit 10% upper circuit; Maithan Alloys acquires 0.65% stake",unknown_or_unlisted
+307,2026-09-11,07:03,Brent,fall,"Airline, OMCs, paint and tyre stocks fall up to 5% as Brent nears $110; SpiceJet, HPCL among major losers",ambiguous_headline_several_stocks
+308,2026-09-11,07:03,gold ETFs,fall,Silver ETFs fall over 3% as global silver extends losses on rising Fed rate hike bets; gold ETFs also down,index_or_market
+311,2026-09-10,07:04,Redington,rise,"Redington shares rise up to 5.5% as Apple launches iPhone 18 series, hikes iPhone 17 prices in India",repeat_of_earlier_alert
+314,2026-09-09,07:07,Kanohar Electricals,rise,Kanohar Electricals IPO subscribed over 4x so far on Day 2; GMP jumps to 35%,unknown_or_unlisted
+315,2026-09-09,07:07,Enviro Infra Engineers,rise,"Price Action: Innovision shares up 12% on LoA worth Rs 243cr, Enviro Infra Engineers surged 6% on contract win",unknown_or_unlisted
+316,2026-09-09,07:07,Rs 243cr,rise,"Price Action: Innovision shares up 12% on LoA worth Rs 243cr, Enviro Infra Engineers surged 6% on contract win",amount_not_company
+323,2026-09-08,06:59,SPP,fall,"Momentum Stocks: Ducol Organics, Magson Retail, SPP Polymer down 4-6%; Voltas, United Breweries, ICICI Lombard hit 52-week low",unknown_or_unlisted
+327,2026-09-07,07:04,HUL,rise,HUL stock outlook: Brokerages see up to 26% upside as FMCG major sharpens ‘New India’ growth strategy,repeat_of_earlier_alert
+329,2026-09-06,06:54,Abhishek Banerjee,rise,"Daily Voice: Lotusdew's Abhishek Banerjee expects Nifty to end year at record high, sees opportunity in longer-dated US bonds",broker_or_agency
+330,2026-09-06,06:54,Lotusdew,rise,"Daily Voice: Lotusdew's Abhishek Banerjee expects Nifty to end year at record high, sees opportunity in longer-dated US bonds",broker_or_agency
+333,2026-09-03,06:55,ICICI,rise,"MF industry profit rises 14% in FY26; HDFC, ICICI, SBI MF corner over 50% of profits",unknown_or_unlisted
+334,2026-09-03,06:55,HDFC,rise,"MF industry profit rises 14% in FY26; HDFC, ICICI, SBI MF corner over 50% of profits",unknown_or_unlisted
+335,2026-09-03,06:55,GOCL,rise,"Momentum Stocks: Enfuse Solutions, Mangalam Alloys, GOCL Corp gain up to 9% on sheer momentum",unknown_or_unlisted
+336,2026-09-03,06:55,Mangalam Alloys,rise,"Momentum Stocks: Enfuse Solutions, Mangalam Alloys, GOCL Corp gain up to 9% on sheer momentum",unknown_or_unlisted
+337,2026-09-03,06:55,Enfuse Solutions,rise,"Momentum Stocks: Enfuse Solutions, Mangalam Alloys, GOCL Corp gain up to 9% on sheer momentum",unknown_or_unlisted
+338,2026-09-02,06:52,Swan,fall,"Momentum Stocks: Hero MotoCorp, Eicher Motors down 4%; RVNL, HUL, Swan Corp hit 52-week low",unknown_or_unlisted
+342,2026-09-02,06:52,CAS,fall,BSE shares fall over 4% from day's high as exchange says CAS led to lower volumes,index_or_market
+343,2026-09-01,07:21,Bank,fall,"Bank Nifty falls 400 points today as CAS-driven surge fizzles out; Axis Bank, Yes Bank lead losses",ambiguous_headline_several_stocks
+345,2026-09-01,07:21,Bank Nifty,fall,"Bank Nifty falls 400 points today as CAS-driven surge fizzles out; Axis Bank, Yes Bank lead losses",ambiguous_headline_several_stocks
+347,2026-09-01,07:21,GRT Jewellers,rise,"Tribhovandas Bhimji Zaveri shares hit 20% upper circuit as GRT Jewellers to acquire 74% stake for Rs 1,034 crore",unknown_or_unlisted
+352,2026-08-28,13:51,Closing Bell,rise,"Live: IT, metal sectors shine this week; Oil nosedives 7% to $88 | Closing Bell",index_or_market
+357,2026-08-27,12:25,Wipro ADR,rise,Wipro ADR rises 5% in pre-market trading as IT firm expands partnership with Google Cloud for adoption of AI,repeat_of_earlier_alert
+361,2026-08-26,03:05,"Rs 1,600",rise,"Sigma Advanced Systems shares hit upper circuit on Rs 1,600 crore Rolls-Royce deal via UK arm",amount_not_company
+362,2026-08-26,03:05,Sigma Advanced Systems,rise,"Sigma Advanced Systems shares hit upper circuit on Rs 1,600 crore Rolls-Royce deal via UK arm",unknown_or_unlisted
+363,2026-08-26,03:05,"Sensex, Nifty",rise,"GIFT Nifty jumps 220 pts, signals gap-up start for Sensex, Nifty; oil slump, Wall Street gains lift sentiment",unknown_or_unlisted
+364,2026-08-26,03:05,DEMA,rise,"Technical View: Nifty 50 needs to sustain Tuesday's high to target 24,500; Bank Nifty's 20 DEMA key for upside towards 57,900",index_or_market
+365,2026-08-26,03:05,Bank Nifty's,rise,"Technical View: Nifty 50 needs to sustain Tuesday's high to target 24,500; Bank Nifty's 20 DEMA key for upside towards 57,900",regulator_or_event
+367,2026-08-25,02:58,Ratnamani Metals & Tubes,rise,"Ratnamani Metals & Tubes shares surge 18% on bagging export orders worth Rs 2,700 crore",repeat_of_earlier_alert
+368,2026-08-25,02:58,"Sensex, Nifty",fall,"GIFT Nifty signals weak start for Sensex, Nifty; Asian losses, Wall Street decline weigh on sentiment",unknown_or_unlisted
+369,2026-08-25,02:58,GIFT Nifty,fall,"GIFT Nifty signals weak start for Sensex, Nifty; Asian losses, Wall Street decline weigh on sentiment",index_or_market
+370,2026-08-24,03:03,Trump,fall,Bessent’s ‘Treasury twist’ fails to tame bond yields as markets defy Trump administration,foreign_company
+371,2026-08-24,03:03,Bessent’s ‘Treasury,fall,Bessent’s ‘Treasury twist’ fails to tame bond yields as markets defy Trump administration,regulator_or_event
+372,2026-08-24,03:03,Smallcap,rise,Broader indices outperform; Smallcap index scales fresh high,index_or_market
+374,2026-08-23,03:02,"Rs 1,757-crore",rise,"Symbiotec Pharmalab raises over Rs 526 crore from 34 anchor investors ahead of Rs 1,757-crore IPO",amount_not_company
+375,2026-08-23,03:02,Rs 526,rise,"Symbiotec Pharmalab raises over Rs 526 crore from 34 anchor investors ahead of Rs 1,757-crore IPO",amount_not_company
+376,2026-08-23,03:02,HNI,rise,HNI share in passive fund AUM triples to 19.9% in 5 years: AMFI-CRISIL study,index_or_market
+377,2026-08-22,02:54,Rs 526,rise,"Symbiotec Pharmalab raises over Rs 526 crore from 34 anchor investors ahead of Rs 1,757-crore IPO",amount_not_company
+378,2026-08-22,02:54,Closing Bell,rise,"Live: Smallcaps outperform, Oil climbs 5% this week; Sugar stocks in focus | Closing Bell",index_or_market
+379,2026-08-22,02:54,GMP,rise,Augmont Enterprises IPO booked nearly 3x on opening day; GMP at 38%,index_or_market
+380,2026-08-22,02:54,Auto,rise,FPIs flip to buyers in Auto after months of selling; Financials see strong return of foreign money,index_or_market
+381,2026-08-22,02:54,Rs 1.3,fall,"'You take Rs 20 lakh loan, I'll pay EMIs': Cousin's unusual Rs 1.3 crore house plan leaves Reddit user puzzled",amount_not_company
+382,2026-08-21,03:03,GIFT Nifty,rise,"GIFT Nifty signals flat start for Sensex, Nifty; rising US yields, crude oil temper sentiment after rebound",index_or_market
+383,2026-08-21,03:03,Treasury,fall,"US stocks fall as bond yields rebound, oil rises despite Treasury push to lower rates",index_or_market
+384,2026-08-21,03:03,Opening Bell,fall,Live: Nifty set to clock weekly loss; Crude snaps 5-day rally | Opening Bell,index_or_market
+385,2026-08-21,03:03,Crude,fall,Live: Nifty set to clock weekly loss; Crude snaps 5-day rally | Opening Bell,index_or_market
+386,2026-08-21,03:03,Rishabh Instruments,fall,Rishabh Instruments shares fall as promoters eye stake sale,unknown_or_unlisted
+387,2026-08-20,02:57,CAS,fall,"SEBI bars JP Morgan entity, Mansi Share over alleged CAS manipulation, slaps Rs 3.68 crore impounding order",index_or_market
+388,2026-08-20,02:57,GIFT Nifty,rise,"Sensex Today | Stock Market LIVE Updates: GIFT Nifty suggests a strong opening; US, Asian markets gain",index_or_market
+389,2026-08-20,02:57,"Sensex, Nifty",rise,"GIFT Nifty jumps 150 pts, signals strong start for Sensex, Nifty; Asian rebound, lower US bond yields support",unknown_or_unlisted
+390,2026-08-20,02:57,Skyways Air,rise,"Upcoming IPOs: Augmont Enterprises, Symbiotec, Skyways Air GMPs rise up to 29% ahead of issue opening - Check details",unknown_or_unlisted
+391,2026-08-20,02:57,Augmont Enterprises,rise,"Upcoming IPOs: Augmont Enterprises, Symbiotec, Skyways Air GMPs rise up to 29% ahead of issue opening - Check details",unknown_or_unlisted
+392,2026-08-19,02:58,Zettaone Technologies,rise,Jubilant Ingrevia shares in focus after acquiring 40% stake in Zettaone Technologies,unknown_or_unlisted
+393,2026-08-19,02:58,EPFO,rise,RailTel Corporation shares in focus after ₹166.8-cr work order from EPFO,regulator_or_event
+394,2026-08-19,02:58,"Sensex, Nifty",rise,"GIFT Nifty inches up, signals cautious start for Sensex, Nifty; Asian chip rout, rising crude, yields weigh",unknown_or_unlisted
+395,2026-08-19,02:58,GIFT Nifty,rise,"GIFT Nifty inches up, signals cautious start for Sensex, Nifty; Asian chip rout, rising crude, yields weigh",index_or_market
+396,2026-08-19,02:58,Tech,fall,"US stocks drop, led by Tech, as bond-yield spike sparks angst",index_or_market
+397,2026-08-18,02:56,Goldman,fall,Goldman says markets too hawkish on betting Fed will hike rates,broker_or_agency
+398,2026-08-18,02:56,Bank Nifty's,fall,"Technical View: Selling pressure may intensify if Nifty 50 breaks key 24,200 support; Monday's low critical for Bank Nifty's next directional move",regulator_or_event
+399,2026-08-18,02:56,"Rs 10,000",rise,"Abakkus MF AUM crosses Rs 10,000 crore less than a year after launch",amount_not_company
+400,2026-08-18,02:56,"Sensex, Nifty as Brent",fall,"GIFT Nifty falls, signals muted start for Sensex, Nifty as Brent climbs above $91, US-Iran tensions weigh",regulator_or_event
+401,2026-08-18,02:56,GMP,rise,"Credent Connect N Care IPO sees over 142 times subscription on final day, GMP remains strong since launch",index_or_market
+402,2026-08-17,03:00,Jainam CIO,rise,"Daily Voice: Jainam CIO sees better Q2 margins and broader growth, but flags crude and monsoon risks",broker_or_agency
+403,2026-08-17,03:00,SECI,rise,Juniper Green Energy in focus after winning 230 MW FDRE-RTC project from SECI,regulator_or_event
+404,2026-08-17,03:00,RTC,rise,Juniper Green Energy in focus after winning 230 MW FDRE-RTC project from SECI,index_or_market
+405,2026-08-17,03:00,Juniper Green Energy,rise,Juniper Green Energy in focus after winning 230 MW FDRE-RTC project from SECI,unknown_or_unlisted
+406,2026-08-17,03:00,"Sensex, Nifty",fall,"GIFT Nifty down, signals weak start for Sensex, Nifty; oil near $89 as US-Iran impasse keeps investors cautious",unknown_or_unlisted
+408,2026-08-15,02:53,"Rs 1,168",rise,"Horizon Industrial Parks raises Rs 1,168 crore from anchors ahead of Rs 2,600-crore IPO",amount_not_company
+410,2026-08-15,02:53,Voltas Q1,rise,"Voltas Q1 net profit rises 53% to Rs 214 crore, company announces JV with Atomberg to build AC compressors",repeat_of_earlier_alert
+411,2026-08-15,02:53,FPI,rise,Axis Securities sees up to Rs 1.9 lakh crore FPI inflows if Hormuz risk eases,index_or_market
+412,2026-08-15,02:53,Rs 1.9,rise,Axis Securities sees up to Rs 1.9 lakh crore FPI inflows if Hormuz risk eases,amount_not_company
+413,2026-08-14,04:10,REC Power,rise,Ashoka Buildcon shares gains on LoI from REC Power,unknown_or_unlisted
+415,2026-08-14,04:10,Ashoka Buildcon,rise,Ashoka Buildcon shares gains on LoI from REC Power,repeat_of_earlier_alert
+417,2026-08-14,04:10,Tata Motors,fall,"Tata Motors PV stock falls 4.5% after Q1; brokerages cautious on margins, JLR recovery despite strong India biz",repeat_of_earlier_alert
+419,2026-08-13,04:13,Tata Motors,rise,"Tata Motors stock jumps 6% after strong Q1; Nomura upgrades to Buy, CLSA sees over 30% upside",repeat_of_earlier_alert
+420,2026-08-13,04:13,HSBC,rise,"Lenskart stock jumps 5% after Q1 results; Jefferies sees more upside, Citi and HSBC flag rich valuations",broker_or_agency
+421,2026-08-13,04:13,Jefferies,rise,"Lenskart stock jumps 5% after Q1 results; Jefferies sees more upside, Citi and HSBC flag rich valuations",broker_or_agency
+422,2026-08-13,04:13,"Sensex, Nifty",fall,"GIFT Nifty down, signals weak start for Sensex, Nifty despite positive global cues; US inflation, oil in focus",unknown_or_unlisted
+425,2026-08-10,03:55,"Rs 6,000",rise,"Titan: Motilal Oswal retains 'Buy', target at Rs 6,000; jewelry EBIT jumps 41%",amount_not_company
+426,2026-08-10,03:55,"Sensex, Nifty",rise,"GIFT Nifty signals steady start for Sensex, Nifty; Asian markets rise after Wall Street rally, oil gains",unknown_or_unlisted
+427,2026-08-10,03:55,GIFT Nifty,rise,"GIFT Nifty signals steady start for Sensex, Nifty; Asian markets rise after Wall Street rally, oil gains",index_or_market
+428,2026-08-10,03:55,NIM,rise,"SBI stock gains over 1%, top Nifty gainer after Q1 beat; brokerages bullish as NIM, loan growth improve",index_or_market
+429,2026-08-09,03:43,Bank Nifty,fall,"Technical View: Failure to hold the 24,500 zone next week could strengthen Nifty bears; Bank Nifty must defend 57,500 support",index_or_market
+430,2026-08-09,03:43,Cult,fall,IPO-bound Cult founder Rishabh Telang accused of forging co-founder’s signatures; company calls charges false,unknown_or_unlisted
+431,2026-08-09,03:43,FII,rise,"Market extends gains for second straight week on RBI policy, FII support",index_or_market
+432,2026-08-09,03:43,PPFAS,rise,"Rajeev Thakkar defends PPFAS strategy, says equity opportunities are improving",broker_or_agency
+435,2026-08-06,05:18,GMP,rise,Ardee Industries IPO subscribed over 4x so far on Day 2; GMP surges to 28%,index_or_market
+436,2026-08-06,05:18,Ardee Industries IPO,rise,Ardee Industries IPO subscribed over 4x so far on Day 2; GMP surges to 28%,unknown_or_unlisted
+438,2026-08-06,05:18,Eppeltone Engineers,rise,"Momentum Stocks: Navin Fluorine, Eppeltone Engineers, Fineotex Chemical gain up to 12% on sheer momentum",unknown_or_unlisted
+439,2026-08-06,05:18,"Sensex, Nifty",rise,"GIFT Nifty gains, signals positive start for Sensex, Nifty despite mixed global cues; earnings remain in focus",unknown_or_unlisted
+443,2026-08-05,05:16,"Sensex, Nifty",rise,"GIFT Nifty jumps 170 pts, signals firm start for Sensex, Nifty as Wall Street hits record; RBI policy in focus",unknown_or_unlisted
+445,2026-08-04,05:16,"Mohit Industries, Steel City Securities",rise,"Momentum Stocks: Restaurant Brands, Mohit Industries, Steel City Securities rise up to 15% on sheer momentum",unknown_or_unlisted
+449,2026-08-04,05:16,Dabur India,fall,"Dabur India shares drop 2.42% after FSSAI bans '100%' claims on honey, ghee, coconut water",repeat_of_earlier_alert
+450,2026-08-03,05:43,Chart,rise,Chart of the Day | Indian Home Textile industry weaves success amid global disruptions,index_or_market
+451,2026-08-03,05:43,InstaHelp,rise,UC Q1 margin expansion offsets continued InstaHelp investments,unknown_or_unlisted
+452,2026-08-03,05:43,GMP,fall,"Manipal Health IPO allotment today; check status on BSE, NSE and registrar, GMP signals weak listing",index_or_market
+454,2026-08-03,05:43,Jefferies,fall,Muthoot Finance crashes up to 11% as Q1 results miss estimates; Jefferies downgrades stock to 'hold',repeat_of_earlier_alert
+455,2026-08-02,05:29,SBI Securities',rise,"Chartist Talk: Will Hyundai Motor and Bajaj Finance rally further? SBI Securities' Sudeep Shah says a decisive breakout above 24,600 will set Nifty 50's next directional move",ambiguous_headline_several_stocks
+458,2026-08-02,05:29,Rs 10,fall,"SEBI bars two former SecureKloud promoters for insider trading, imposes Rs 10 lakh penalty each",amount_not_company
+459,2026-08-02,05:29,SecureKloud,fall,"SEBI bars two former SecureKloud promoters for insider trading, imposes Rs 10 lakh penalty each",unknown_or_unlisted
+461,2026-08-01,05:29,Rs 10,fall,"SEBI bars two former SecureKloud promoters for insider trading, imposes Rs 10 lakh penalty each",amount_not_company
+462,2026-08-01,05:29,SecureKloud,fall,"SEBI bars two former SecureKloud promoters for insider trading, imposes Rs 10 lakh penalty each",unknown_or_unlisted
+463,2026-08-01,05:29,Rs 65,rise,Shadowfax shares gain 10% as firm's Q1 net profit rises multi-fold to Rs 65 crore,amount_not_company
+464,2026-08-01,05:29,Shadowfax,rise,Shadowfax shares gain 10% as firm's Q1 net profit rises multi-fold to Rs 65 crore,unknown_or_unlisted
+468,2026-07-30,05:00,Xtranet Technologies,rise,Xtranet Technologies shares make decent market debut at 7% premium on NSE,unknown_or_unlisted
+470,2026-07-30,05:00,Redington,rise,Redington shares rise up to 15% as Q1 net profit nearly doubles to Rs 453 crore,repeat_of_earlier_alert
+476,2026-07-28,05:16,HUL,fall,"Stock Market Live: Sensex, Nifty trade flat in volatile session; HUL slips after Q1 profit declines to Rs 2,673cr",repeat_of_earlier_alert
+477,2026-07-27,05:51,JSW MG Motor,rise,Buzzing Stock: DCB Bank shares up 6% on strong earnings; Landmark Cars jumps 4% on LoI from JSW MG Motor,unknown_or_unlisted
+478,2026-07-27,05:51,LoI,rise,Buzzing Stock: DCB Bank shares up 6% on strong earnings; Landmark Cars jumps 4% on LoI from JSW MG Motor,ambiguous_headline_several_stocks
+481,2026-07-27,05:51,Indo-MIM,rise,Indo-MIM IPO subscribed over 4x so far on final day; GMP signals strong listing gains,unknown_or_unlisted
+485,2026-07-24,05:21,PS Raj Steels,rise,"Momentum Stocks: Deccan Transcon, Asian Granito, PS Raj Steels gain up to 16% on sheer momentum",unknown_or_unlisted
+486,2026-07-24,05:21,Deccan Transcon,rise,"Momentum Stocks: Deccan Transcon, Asian Granito, PS Raj Steels gain up to 16% on sheer momentum",unknown_or_unlisted
+487,2026-07-24,05:21,Indo-MIM,rise,Indo-MIM IPO subscribed nearly 1.5x so far on Day 2; GMP signals strong listing gains,unknown_or_unlisted
+488,2026-07-24,05:21,Brent,fall,Currency Check: Rupee opens 6 paise lower against dollar as Brent crude tops $100 a barrel,index_or_market
+490,2026-07-23,05:26,"Sensex, Nifty",fall,"GIFT Nifty falls 100 pts, signals weak start for Sensex, Nifty as oil nears $96 amid Middle East tensions",unknown_or_unlisted
+495,2026-07-22,05:21,Brent,fall,Rupee opens 10 paise lower at 96.34 against dollar as Brent continues the climb,index_or_market
+498,2026-07-22,05:21,Paras Defence,fall,"Paras Defence shares fall 1% despite Rs 6,200 crore semiconductor facility plan",repeat_of_earlier_alert
+499,2026-07-21,05:22,Supreme Infra,rise,"Momentum Stocks: KCP Sugar, Ashiana Housing, Supreme Infra rise up to 16% on sheer momentum",unknown_or_unlisted
+503,2026-07-21,05:22,USFDA,fall,Buzzing Stock: Wanbury declines 5% after USFDA inspection; Rallis India slips 2% post Q2 earnings,manual_exclude_wrong_subject
+507,2026-07-19,05:23,Kotak Mahindra Bank Q1,rise,"Kotak Mahindra Bank Q1 net profit rises 26% to Rs 4,123 crore, beats estimates; asset quality improves",repeat_of_earlier_alert
+509,2026-07-19,05:23,RIL,rise,RIL Q1 FY27: Strong show by oil derivatives business despite volatile energy markets,repeat_of_earlier_alert
+510,2026-07-18,04:50,DEMA,rise,"Technical View: Nifty 50 needs follow-up buying to surpass the 200 DEMA for further upside toward previous swing highs; Bank Nifty eyes 58,700",index_or_market
+513,2026-07-18,04:50,Netflix,fall,"Nasdaq futures fall 2% amid sharp selling in chip stocks; Netflix, SpaceX decline up to 11%",foreign_company
+514,2026-07-18,04:50,Nasdaq futures fall,fall,"Nasdaq futures fall 2% amid sharp selling in chip stocks; Netflix, SpaceX decline up to 11%",index_or_market
+517,2026-07-17,05:16,Nomura,fall,"Wipro stock rating: Brokerages split after Q1 results; Nomura stays bullish, Jefferies cuts estimates",repeat_of_earlier_alert
+519,2026-07-17,05:16,Chart,fall,Chart of the Day: The weak link in funding India’s aspiration of becoming a developed nation,index_or_market
+520,2026-07-16,05:12,"Sensex, Nifty",rise,"GIFT Nifty signals mildly positive start for Sensex, Nifty despite weak Asian markets; oil prices stay elevated",unknown_or_unlisted
+521,2026-07-16,05:12,GIFT Nifty,rise,"GIFT Nifty signals mildly positive start for Sensex, Nifty despite weak Asian markets; oil prices stay elevated",index_or_market
+522,2026-07-16,05:12,TSMC,rise,TSMC’s AI boom rolls on: Q2 profit seen jumping 59% to fifth straight record,foreign_company
+524,2026-07-16,05:12,Samsung,fall,"South Korea’s Kospi drops more than 7% as SK Hynix, Samsung lead AI stock selloff",foreign_company
+527,2026-07-14,04:53,Pune-Shirur,fall,"Welspun Enterprises arm signs Rs 7,300 crore Pune-Shirur highway project; shares down marginally",unknown_or_unlisted
+529,2026-07-14,04:53,Welspun Enterprises,fall,"Welspun Enterprises arm signs Rs 7,300 crore Pune-Shirur highway project; shares down marginally",repeat_of_earlier_alert
+530,2026-07-14,04:53,"Sensex, Nifty",fall,"GIFT Nifty falls 150 pts, signals weak start for Sensex, Nifty as renewed US-Iran tensions push crude above $85",unknown_or_unlisted
+534,2026-07-13,05:39,Brent,fall,Indian government bonds weaken as Brent nears $80 on US-Iran escalation; CPI data in focus,index_or_market
+536,2026-07-12,05:29,Bank Nifty,rise,"Technical View: Follow-up buying boosts hopes of Nifty 50 moving towards 24,500 next week as VIX cools further; Bank Nifty eyes 58,700",index_or_market
+537,2026-07-12,05:29,VIX,rise,"Technical View: Follow-up buying boosts hopes of Nifty 50 moving towards 24,500 next week as VIX cools further; Bank Nifty eyes 58,700",index_or_market
+538,2026-07-12,05:29,Nifty 50,rise,"Technical View: Follow-up buying boosts hopes of Nifty 50 moving towards 24,500 next week as VIX cools further; Bank Nifty eyes 58,700",index_or_market
+539,2026-07-12,05:29,"Rs 9,813",fall,"SBI Funds Management IPO size reduced to Rs 9,813 crore after pre-IPO round with marquee investors",amount_not_company
+540,2026-07-11,05:14,Bank Nifty,rise,"Technical View: Follow-up buying boosts hopes of Nifty 50 moving towards 24,500 next week as VIX cools further; Bank Nifty eyes 58,700",index_or_market
+541,2026-07-11,05:14,VIX,rise,"Technical View: Follow-up buying boosts hopes of Nifty 50 moving towards 24,500 next week as VIX cools further; Bank Nifty eyes 58,700",index_or_market
+542,2026-07-11,05:14,Nifty 50,rise,"Technical View: Follow-up buying boosts hopes of Nifty 50 moving towards 24,500 next week as VIX cools further; Bank Nifty eyes 58,700",index_or_market
+544,2026-07-10,06:05,"Rs 11,500",rise,"Kalyan Jewellers stock jumps over 7% today, now up 34% in three sessions; Rs 11,500 crore added to m-cap",amount_not_company
+550,2026-07-09,06:06,Ather Energy,rise,"Ather Energy remains Nomura's top EV pick; 'Buy' retained, target hiked to Rs 1,470",repeat_of_earlier_alert
+556,2026-07-08,05:22,KPIT Tech,fall,"KPIT Tech stock rating: Goldman Sachs cuts target price, sees flat FY27 revenue growth amid weak demand",repeat_of_earlier_alert
+558,2026-07-08,05:22,"Sensex, Nifty",fall,"GIFT Nifty falls 150 pts, signals weak start for Sensex, Nifty as renewed US-Iran tensions lift oil prices",unknown_or_unlisted
+561,2026-07-07,06:09,Apollo Micro Systems,fall,"Apollo Micro Systems stock falls 5% again today after board OKs Rs 3,322 cr fundraise; among top smallcap losers",repeat_of_earlier_alert
+563,2026-07-07,06:09,Vedanta Oil & Gas,fall,"Vedanta Oil & Gas, two other Vedanta Group stocks fall for 3rd straight day, decline up to 5%",unknown_or_unlisted
+568,2026-07-06,06:37,Neutral' on Bank of Baroda,fall,"Nomura stays 'Neutral' on Bank of Baroda, says NMC settlement could wipe out nearly one quarter's profit",repeat_of_earlier_alert
+573,2026-07-04,05:47,VIX,fall,"Technical View: Nifty eyes 24,600 next week despite likely consolidation; Bank Nifty underperforms for a second straight day, VIX near a five-month low",index_or_market
+574,2026-07-04,05:47,Bank Nifty,fall,"Technical View: Nifty eyes 24,600 next week despite likely consolidation; Bank Nifty underperforms for a second straight day, VIX near a five-month low",index_or_market
+576,2026-07-03,05:55,DMart,fall,"DMart stock falls 4% after Q1 business update disappoints; Goldman Sachs, Macquarie stay bearish",repeat_of_earlier_alert
+577,2026-07-03,05:55,Centre,fall,"CG Power, Hitachi Energy fall up to 7.5% as Centre allows four Chinese-linked power equipment firms to bid for govt projects",ambiguous_headline_several_stocks
+581,2026-07-02,06:01,Vedanta Iron & Steel,rise,"Vedanta Iron & Steel, three other Vedanta Group stocks rise for 2nd day, gain up to 10%, after exiting the T2T segment",unknown_or_unlisted
+582,2026-07-02,06:01,"Sensex, Nifty",rise,"GIFT Nifty jumps 150 pts, signals firm start for Sensex, Nifty despite global tech selloff; cheaper oil helps",unknown_or_unlisted
+585,2026-07-01,06:28,Data Story,fall,Data Story | West Asia war leaves its mark on Delhi's fiscal arithmetic,index_or_market
+586,2026-07-01,06:28,Drone Destination,rise,"Momentum Stocks: RITES, Haleon Labs, Drone Destination gain up to 11% on sheer momentum",unknown_or_unlisted
+587,2026-07-01,06:28,Haleon Labs,rise,"Momentum Stocks: RITES, Haleon Labs, Drone Destination gain up to 11% on sheer momentum",unknown_or_unlisted
+589,2026-07-01,06:28,state,fall,India’s $2 billion state stake sales buck equity market slowdown,index_or_market
+590,2026-06-30,06:13,Nasdaq,rise,"Dow hits fresh record, Nasdaq surges as tech stocks rebound despite US-Iran tensions",index_or_market
+591,2026-06-30,06:13,Dow,rise,"Dow hits fresh record, Nasdaq surges as tech stocks rebound despite US-Iran tensions",index_or_market
+592,2026-06-30,06:13,"Sensex, Nifty",rise,"GIFT Nifty signals cautious gains for Sensex, Nifty despite US-Iran jitters; Wall Street rallies, crude falls",unknown_or_unlisted
+593,2026-06-30,06:13,GIFT Nifty,rise,"GIFT Nifty signals cautious gains for Sensex, Nifty despite US-Iran jitters; Wall Street rallies, crude falls",index_or_market
+595,2026-06-29,06:49,TSF Investments,rise,"Momentum Stocks: Vikran Engg, Deccan Cements, TSF Investments, gain up to 8% on sheer momentum",unknown_or_unlisted
+599,2026-06-29,06:49,BSNL,fall,Blue Cloud Softech empanelled by BSNL for captive private network services; shares fall nearly 8%,unknown_or_unlisted
+600,2026-06-28,06:19,Micron,rise,"Micron overtakes Meta, Tesla in market capitalisation as AI chip boom powers historic rally",foreign_company
+601,2026-06-28,06:19,US Fed,fall,"GIFT Nifty falls 100 pts as Asian stocks retreat; Big Tech weakness, US Fed worries weigh on sentiment",index_or_market
+602,2026-06-28,06:19,Porsche,fall,"Volkswagen layoffs: Audi, Porsche maker eyes cutting 1 lakh jobs, shut factories",foreign_company
+603,2026-06-28,06:19,Audi,fall,"Volkswagen layoffs: Audi, Porsche maker eyes cutting 1 lakh jobs, shut factories",foreign_company
+604,2026-06-28,06:19,Volkswagen,fall,"Volkswagen layoffs: Audi, Porsche maker eyes cutting 1 lakh jobs, shut factories",foreign_company
+605,2026-06-27,05:55,BBB,rise,"S&P upgrades Adani Ports to 'BBB', cites strong cash flows despite aggressive expansion plans",repeat_of_earlier_alert
+606,2026-06-27,05:55,S&P,rise,"S&P upgrades Adani Ports to 'BBB', cites strong cash flows despite aggressive expansion plans",repeat_of_earlier_alert
+607,2026-06-27,05:55,Porsche,fall,"Volkswagen layoffs: Audi, Porsche maker eyes cutting 1 lakh jobs, shut factories",foreign_company
+608,2026-06-27,05:55,Audi,fall,"Volkswagen layoffs: Audi, Porsche maker eyes cutting 1 lakh jobs, shut factories",foreign_company
+609,2026-06-27,05:55,Volkswagen,fall,"Volkswagen layoffs: Audi, Porsche maker eyes cutting 1 lakh jobs, shut factories",foreign_company
+610,2026-06-26,06:12,Apple,fall,"Nasdaq falls for fourth day as Apple slides, Strait of Hormuz attack lifts oil prices",foreign_company
+611,2026-06-26,06:12,Nasdaq,fall,"Nasdaq falls for fourth day as Apple slides, Strait of Hormuz attack lifts oil prices",index_or_market
+612,2026-06-26,06:12,US Fed,fall,"GIFT Nifty falls 100 pts as Asian stocks retreat; Big Tech weakness, US Fed worries weigh on sentiment",index_or_market
+614,2026-06-26,06:12,S&P,rise,"S&P upgrades Adani Ports to 'BBB', cites strong cash flows despite aggressive expansion plans",repeat_of_earlier_alert
+616,2026-06-24,06:08,OFS,fall,"Buzzing Stocks: IRFC sheds 5% on OFS plans; Infosys, Pine Labs, Rashi Peripherals advance",ambiguous_headline_several_stocks
+620,2026-06-24,06:08,Pine Labs,fall,"Buzzing Stocks: IRFC sheds 5% on OFS plans; Infosys, Pine Labs, Rashi Peripherals advance",unknown_or_unlisted
+628,2026-06-20,06:22,ARPU,rise,"Jio sees headroom for ARPU growth, could rise 50% by 2031, shows IPO filing",index_or_market
+629,2026-06-20,06:22,FII,rise,"Nifty, Sensex extend weekly gains; lower oil prices, FII inflows offset IT-led selloff",index_or_market
+631,2026-06-20,06:22,Infosys,fall,"Nifty IT recovers from 6% fall, still ends down 3.7%; Infosys sinks 7%, leads losses after Accenture shock",repeat_of_earlier_alert
+633,2026-06-19,07:08,FII,fall,"GIFT Nifty down 200 pts, signals weak start for Sensex, Nifty despite strong Asian, US cues; FII flows in focus",index_or_market
+634,2026-06-19,07:08,"Sensex, Nifty",fall,"GIFT Nifty down 200 pts, signals weak start for Sensex, Nifty despite strong Asian, US cues; FII flows in focus",unknown_or_unlisted
+637,2026-06-18,06:53,Bosch Home Comfort,rise,"Buzzing Stocks: Anthem Bio, Bosch Home Comfort gain on stake sale; Kirloskar Ferrous surges 11% on export order win",unknown_or_unlisted
+644,2026-06-17,07:11,BMC,fall,"Lodha drops 4%, Oberoi Realty slips 3% as BMC shuts water supply to construction sites across Mumbai",ambiguous_headline_several_stocks
+652,2026-06-14,06:42,"Rs 1,220-crore",rise,"Casagrand Premier Builder moves closer to Rs 1,220-crore IPO as SEBI approves draft documents",amount_not_company
+653,2026-06-14,06:42,Casagrand,rise,"Casagrand Premier Builder moves closer to Rs 1,220-crore IPO as SEBI approves draft documents",unknown_or_unlisted
+654,2026-06-14,06:42,Bank Nifty,rise,"Technical View: Bulls may target 24,000 next week if Nifty 50 holds above the 20-DEMA; Bank Nifty eyes April high amid strong momentum indicators",index_or_market
+657,2026-06-13,06:18,Bank Nifty,rise,"Technical View: Bulls may target 24,000 next week if Nifty 50 holds above the 20-DEMA; Bank Nifty eyes April high amid strong momentum indicators",index_or_market
+659,2026-06-13,06:18,Nestle India,fall,Nestle India declines 3% after FSSAI issues notice over alleged insect detection in Maggi; FMCG firm rejects allegations,repeat_of_earlier_alert
+661,2026-06-12,06:43,HDFC Bank,rise,"Bank Nifty jumps over 1%, all 14 constituents gain; HDFC Bank leads banking stocks higher",repeat_of_earlier_alert
+663,2026-06-12,06:43,Motilal Oswal Financial Services,rise,Motilal Oswal Financial Services stock jumps 5% as UBS initiates coverage with ‘buy’; sees 38% upside,repeat_of_earlier_alert
+667,2026-06-11,06:50,Rs 95.52,fall,Rupee opens 25 paise lower at Rs 95.52 per dollar as geopolitical tensions weigh,amount_not_company
+670,2026-06-09,06:11,F&O,fall,The going gets tough for F&O traders,index_or_market
+671,2026-06-09,06:11,"Sensex, Nifty",fall,"GIFT Nifty down, signals weak start for Sensex, Nifty despite Asia rebound; markets cautious on Iran tensions",unknown_or_unlisted
+672,2026-06-09,06:11,IPO,rise,"Eternal, Swiggy shares gain today even as Zepto files IPO papers, highlights rapid quick commerce growth",ambiguous_headline_several_stocks
+675,2026-06-08,06:45,RVNL eClerx Services,fall,"Momentum Stocks: TCS, RVNL eClerx Services, SBI Cards hit 52-week low",unknown_or_unlisted
+676,2026-06-08,06:45,Airbus,fall,"IndiGo shares fall nearly 3% amid crude oil spike, Airbus delivery concerns",foreign_company
+681,2026-06-06,05:55,Nippon India Mutual Fund,fall,Nippon India Mutual Fund announces caps on investments in Gold BeES ETF and Gold Savings Fund,broker_or_agency
+683,2026-06-06,05:55,"Rs 2,800",rise,"Acme Solar shares rise 2% on raising Rs 2,800 crore via QIP route",repeat_of_earlier_alert
+684,2026-06-06,05:55,Acme Solar,rise,"Acme Solar shares rise 2% on raising Rs 2,800 crore via QIP route",repeat_of_earlier_alert
+685,2026-06-06,05:55,Nifty Metal,fall,"Metal stocks slide on global growth worries, weak base prices, RBI caution; Nifty Metal index worst performer",index_or_market
+688,2026-06-05,06:24,HSBC,rise,"Titan stock extends gains as brokerages bullish on jewellery growth roadmap; CLSA, HSBC see over 23% upside",broker_or_agency
+689,2026-06-05,06:24,CLSA,rise,"Titan stock extends gains as brokerages bullish on jewellery growth roadmap; CLSA, HSBC see over 23% upside",broker_or_agency
+694,2026-06-04,06:44,PhysicsWallah,rise,PhysicsWallah shares rise 14% as firm partners with leading NBFCs for student financing,unknown_or_unlisted
+695,2026-06-04,06:44,HSBC,fall,"Trent stock adjusts down 33% as shares turn ex-bonus; HSBC stays bullish, sees upside",broker_or_agency
+697,2026-06-02,06:44,Ola Electric,fall,Ola Electric shares fall up to 4% as firm launches QIP to raise up to Rs 500 crore,repeat_of_earlier_alert
+698,2026-06-02,06:44,"Sensex, Nifty",fall,"GIFT Nifty down 200 pts, signals weak start for Sensex, Nifty as oil stays above $95 amid US-Iran uncertainty",unknown_or_unlisted
+700,2026-06-02,06:44,Force Motors,fall,Buzzing Stocks: Force Motors falls 5% on weal sales data; NHPC down 4% on Govt stake sale,repeat_of_earlier_alert
+702,2026-05-31,06:20,Daily Voice,rise,Daily Voice | Narnolia's Shailendra Kumar sees 2HFY27 significantly stronger than 1HFY27 for corporate earnings,index_or_market
+704,2026-05-31,06:20,Moody's,rise,"Moody's upgrades Reliance to Baa1 on strong balance sheet, diversified businesses",repeat_of_earlier_alert
+705,2026-05-31,06:20,Narnolia,rise,Daily Voice | Narnolia's Shailendra Kumar sees 2HFY27 significantly stronger than 1HFY27 for corporate earnings,broker_or_agency
+709,2026-05-28,06:14,JSW Steel,rise,"JSW Steel shares gain over 1% after launch of Rs 65,000 crore Odisha steel plant project",repeat_of_earlier_alert
+711,2026-05-28,06:14,Siemens,rise,Siemens shares rise 5% despite mixed Q4; JM Financial maintains 'add' rating,repeat_of_earlier_alert
+712,2026-05-28,06:14,Elara,fall,Bino Pathiparampil of Elara Capital sees earnings downgrades to pick pace in FY27,broker_or_agency
+714,2026-05-27,06:23,Rs 95.75,fall,Rupee opens 7 paise lower at Rs 95.75 per dollar as Iran war tensions weigh,amount_not_company
+716,2026-05-27,06:23,HDFC Bank,fall,HDFC Bank shares fall nearly 2% after report on internal probe into Rs 45 crore interest payments,repeat_of_earlier_alert
+719,2026-05-26,06:08,UBS,fall,Suzlon shares may remain under pressure after UBS cuts target price on Q4 miss despite industry tailwinds,broker_or_agency
+720,2026-05-26,06:08,BSE Midcap,fall,"RVNL, Concor stocks tumble up to 6%, emerge as top BSE Midcap losers after weak Q4 earnings",ambiguous_headline_several_stocks
+726,2026-05-25,06:29,"Rs 40,000-crore",rise,"Titagarh, Jupiter Wagons shares rise up to 8.5% amid buzz of mega Rs 40,000-crore wagon tender from Railways",repeat_of_earlier_alert
+727,2026-05-25,06:29,Jupiter Wagons,rise,"Titagarh, Jupiter Wagons shares rise up to 8.5% amid buzz of mega Rs 40,000-crore wagon tender from Railways",repeat_of_earlier_alert
+728,2026-05-24,06:03,Bank Nifty,rise,"Technical View: Momentum indicators point to easing bearishness; 20-DEMA key for Nifty to target 24,000 next week, Bank Nifty climbs back above 54,000",index_or_market
+730,2026-05-24,06:03,Rs 50,rise,Dr Agarwals Health Care Q4 profit grows 17.4% to Rs 50 crore,amount_not_company
+731,2026-05-24,06:03,Dr Agarwals Health Care Q4,rise,Dr Agarwals Health Care Q4 profit grows 17.4% to Rs 50 crore,unknown_or_unlisted
+733,2026-05-23,05:41,Rs 50,rise,Dr Agarwals Health Care Q4 profit grows 17.4% to Rs 50 crore,amount_not_company
+734,2026-05-23,05:41,Dr Agarwals Health Care Q4,rise,Dr Agarwals Health Care Q4 profit grows 17.4% to Rs 50 crore,unknown_or_unlisted
+736,2026-05-23,05:41,MTAR Tech,rise,"MTAR Tech shares hit all-time high on securing fresh order worth Rs 467 crore, stock up 22% in 3-day rally",repeat_of_earlier_alert
+740,2026-05-22,06:08,Mamaearth,rise,Mamaearth parent's shares jump 10% post-Q4 results; Jefferies sees firm 'on strong growth path',repeat_of_earlier_alert
+743,2026-05-20,06:09,Trump,fall,"Sensex down 550 pts, Nifty near 23,450: Trump's fresh Iran threat among key factors behind market decline",foreign_company
+748,2026-05-19,06:09,MOFS,fall,"Jain Resource stock crashes 15%, extends two-day decline to 28% on margin pressure in Q4; MOFS retains 'Buy'",broker_or_agency
+749,2026-05-19,06:09,Jain Resource,fall,"Jain Resource stock crashes 15%, extends two-day decline to 28% on margin pressure in Q4; MOFS retains 'Buy'",unknown_or_unlisted
+752,2026-05-19,06:09,Afcons Infrastructure,fall,Afcons Infrastructure slumps 4% after reporting Rs 88 crore Q4 loss,repeat_of_earlier_alert
+758,2026-05-17,05:50,Rs 169,rise,Chambal Fertilisers rallies 6% as Q4 net profit climbs to Rs 169 crore,repeat_of_earlier_alert
+759,2026-05-17,05:50,Chambal Fertilisers,rise,Chambal Fertilisers rallies 6% as Q4 net profit climbs to Rs 169 crore,repeat_of_earlier_alert
+760,2026-05-17,05:50,Solar Industries,rise,Solar Industries Q4FY26 consolidated net profit surges 61%,repeat_of_earlier_alert
+761,2026-05-17,05:50,FoF,fall,Invesco Mutual Fund suspends fresh subscriptions in three overseas FoF schemes,index_or_market
+762,2026-05-17,05:50,Invesco Mutual Fund,fall,Invesco Mutual Fund suspends fresh subscriptions in three overseas FoF schemes,broker_or_agency
+765,2026-05-16,05:29,FoF,fall,Invesco Mutual Fund suspends fresh subscriptions in three overseas FoF schemes,index_or_market
+766,2026-05-16,05:29,Invesco Mutual Fund,fall,Invesco Mutual Fund suspends fresh subscriptions in three overseas FoF schemes,broker_or_agency
+768,2026-05-15,05:56,Vedanta Resources,rise,"S&P upgrades Vedanta Resources rating on stronger finances, demerger",manual_exclude_wrong_subject
+769,2026-05-15,05:56,S&P,rise,"S&P upgrades Vedanta Resources rating on stronger finances, demerger",manual_exclude_wrong_subject
+771,2026-05-15,05:56,Tata Motors,rise,"Tata Motors PV stock soars up to 8% on improving JLR demand, launch pipeline",repeat_of_earlier_alert
+775,2026-05-14,05:50,Kaynes Tech,fall,Kaynes Tech plunges over 17% as firm misses guidance in Q4; JPMorgan downgrades stock,repeat_of_earlier_alert

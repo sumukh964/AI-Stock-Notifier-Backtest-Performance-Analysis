@@ -1,0 +1,176 @@
+ticker,sector
+AUBANK.NS,Banks & Finance
+AXISBANK.NS,Banks & Finance
+BAJFINANCE.NS,Banks & Finance
+BANDHANBNK.NS,Banks & Finance
+BANKBARODA.NS,Banks & Finance
+DCBBANK.NS,Banks & Finance
+DHANBANK.NS,Banks & Finance
+FEDERALBNK.NS,Banks & Finance
+FINOPB.NS,Banks & Finance
+HDFCAMC.NS,Banks & Finance
+HDFCBANK.NS,Banks & Finance
+HDFCLIFE.NS,Banks & Finance
+ICICIBANK.NS,Banks & Finance
+IFCI.NS,Banks & Finance
+JIOFIN.NS,Banks & Finance
+KOTAKBANK.NS,Banks & Finance
+MANAPPURAM.NS,Banks & Finance
+MCX.NS,Banks & Finance
+MOBIKWIK.NS,Banks & Finance
+MOTILALOFS.NS,Banks & Finance
+MUTHOOTFIN.NS,Banks & Finance
+NIACL.NS,Banks & Finance
+PNBHOUSING.NS,Banks & Finance
+POLICYBZR.NS,Banks & Finance
+RBLBANK.NS,Banks & Finance
+SHRIRAMFIN.NS,Banks & Finance
+YESBANK.NS,Banks & Finance
+COFORGE.NS,IT & Internet
+E2E.NS,IT & Internet
+INFY.NS,IT & Internet
+KPITTECH.NS,IT & Internet
+LTTS.NS,IT & Internet
+MPHASIS.NS,IT & Internet
+NAUKRI.NS,IT & Internet
+NETWEB.NS,IT & Internet
+OFSS.NS,IT & Internet
+PERSISTENT.NS,IT & Internet
+QUICKHEAL.NS,IT & Internet
+TCS.NS,IT & Internet
+TECHM.NS,IT & Internet
+WIPRO.NS,IT & Internet
+MEESHO.NS,IT & Internet
+ETERNAL.NS,IT & Internet
+SWIGGY.NS,IT & Internet
+NYKAA.NS,IT & Internet
+REDINGTON.NS,IT & Internet
+RPTECH.NS,IT & Internet
+ALKEM.NS,Pharma & Healthcare
+AUROPHARMA.NS,Pharma & Healthcare
+CAPLIPOINT.NS,Pharma & Healthcare
+CIPLA.NS,Pharma & Healthcare
+DIVISLAB.NS,Pharma & Healthcare
+DRREDDY.NS,Pharma & Healthcare
+GLENMARK.NS,Pharma & Healthcare
+LUPIN.NS,Pharma & Healthcare
+MAXHEALTH.NS,Pharma & Healthcare
+ORCHPHARMA.NS,Pharma & Healthcare
+SUNPHARMA.NS,Pharma & Healthcare
+ZYDUSLIFE.NS,Pharma & Healthcare
+APOLLOHOSP.NS,Pharma & Healthcare
+BAJAJ-AUTO.NS,Auto
+EICHERMOT.NS,Auto
+EXIDEIND.NS,Auto
+FORCEMOT.NS,Auto
+HEROMOTOCO.NS,Auto
+HYUNDAI.NS,Auto
+JBMA.NS,Auto
+M&M.NS,Auto
+OLAELEC.NS,Auto
+ATHERENERG.NS,Auto
+SMLMAH.NS,Auto
+TMPV.NS,Auto
+LANDMARK.NS,Auto
+COALINDIA.NS,Metals & Mining
+HINDALCO.NS,Metals & Mining
+HINDCOPPER.NS,Metals & Mining
+HINDZINC.NS,Metals & Mining
+JSWSTEEL.NS,Metals & Mining
+MOIL.NS,Metals & Mining
+NATIONALUM.NS,Metals & Mining
+RATNAMANI.NS,Metals & Mining
+TATASTEEL.NS,Metals & Mining
+VEDL.NS,Metals & Mining
+BPCL.NS,Energy & Power
+HINDPETRO.NS,Energy & Power
+ONGC.NS,Energy & Power
+PETRONET.NS,Energy & Power
+RELIANCE.NS,Energy & Power
+TATAPOWER.NS,Energy & Power
+NLCINDIA.NS,Energy & Power
+SUZLON.NS,Energy & Power
+ACMESOLAR.NS,Energy & Power
+WAAREERTL.NS,Energy & Power
+GANDHAR.NS,Energy & Power
+JINDRILL.NS,Energy & Power
+GESHIP.NS,Energy & Power
+POWERINDIA.NS,Energy & Power
+CGPOWER.NS,Energy & Power
+APOLLO.NS,Defence & Capital Goods
+BDL.NS,Defence & Capital Goods
+BEL.NS,Defence & Capital Goods
+BHEL.NS,Defence & Capital Goods
+COCHINSHIP.NS,Defence & Capital Goods
+HAL.NS,Defence & Capital Goods
+KAYNES.NS,Defence & Capital Goods
+MTARTECH.NS,Defence & Capital Goods
+PARAS.NS,Defence & Capital Goods
+SIEMENS.NS,Defence & Capital Goods
+POLYCAB.NS,Defence & Capital Goods
+KEC.NS,Defence & Capital Goods
+TRF.NS,Defence & Capital Goods
+AMBER.NS,Defence & Capital Goods
+DIXON.NS,Defence & Capital Goods
+MARINE.NS,Defence & Capital Goods
+NIBE.NS,Defence & Capital Goods
+VOLTAS.NS,Defence & Capital Goods
+ADANIENT.NS,Infra & Real Estate
+ADANIPORTS.NS,Infra & Real Estate
+AFCONS.NS,Infra & Real Estate
+ASHIANA.NS,Infra & Real Estate
+ASHOKA.NS,Infra & Real Estate
+CONCOR.NS,Infra & Real Estate
+IRB.NS,Infra & Real Estate
+IRFC.NS,Infra & Real Estate
+LODHA.NS,Infra & Real Estate
+NBCC.NS,Infra & Real Estate
+OBEROIRLTY.NS,Infra & Real Estate
+OMAXE.NS,Infra & Real Estate
+PRESTIGE.NS,Infra & Real Estate
+WELENT.NS,Infra & Real Estate
+RVNL.NS,Infra & Real Estate
+RITES.NS,Infra & Real Estate
+TITAGARH.NS,Infra & Real Estate
+JWL.NS,Infra & Real Estate
+VRLLOG.NS,Infra & Real Estate
+DECCANCE.NS,Infra & Real Estate
+DABUR.NS,Consumer & Retail
+DMART.NS,Consumer & Retail
+DODLA.NS,Consumer & Retail
+DOMS.NS,Consumer & Retail
+GOKEX.NS,Consumer & Retail
+HINDUNILVR.NS,Consumer & Retail
+HONASA.NS,Consumer & Retail
+INDIANCARD.NS,Consumer & Retail
+MARICO.NS,Consumer & Retail
+NESTLEIND.NS,Consumer & Retail
+PAGEIND.NS,Consumer & Retail
+RADICO.NS,Consumer & Retail
+TBZ.NS,Consumer & Retail
+UBL.NS,Consumer & Retail
+UNITDSPR.NS,Consumer & Retail
+VBL.NS,Consumer & Retail
+RAJESHEXPO.NS,Consumer & Retail
+DEVYANI.NS,Consumer & Retail
+SAPPHIRE.NS,Consumer & Retail
+RBA.NS,Consumer & Retail
+LEMONTREE.NS,Consumer & Retail
+INDIGO.NS,Consumer & Retail
+PVRINOX.NS,Media & Telecom
+SUNTV.NS,Media & Telecom
+HATHWAY.NS,Media & Telecom
+ZEEL.NS,Media & Telecom
+INDUSTOWER.NS,Media & Telecom
+IDEA.NS,Media & Telecom
+TATACHEM.NS,Chemicals & Agri
+UPL.NS,Chemicals & Agri
+CHAMBLFERT.NS,Chemicals & Agri
+COROMANDEL.NS,Chemicals & Agri
+MOLDTKPAC.NS,Chemicals & Agri
+NEOGEN.NS,Chemicals & Agri
+FCL.NS,Chemicals & Agri
+SOLARINDS.NS,Chemicals & Agri
+GMBREW.NS,Consumer & Retail
+KCPSUGIND.NS,Consumer & Retail
+HCLTECH.NS,IT & Internet

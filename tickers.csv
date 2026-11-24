@@ -1,0 +1,231 @@
+company,ticker,headline_match
+Infosys,INFY.NS,yes
+TCS,TCS.NS,yes
+Wipro,WIPRO.NS,yes
+HCL Tech,HCLTECH.NS,yes
+HDFC Bank,HDFCBANK.NS,yes
+ICICI Bank,ICICIBANK.NS,yes
+Axis Bank,AXISBANK.NS,yes
+Kotak Mahindra Bank,KOTAKBANK.NS,yes
+YES Bank,YESBANK.NS,yes
+Reliance,RELIANCE.NS,yes
+Reliance Industries,RELIANCE.NS,yes
+HUL,HINDUNILVR.NS,yes
+Nestle India,NESTLEIND.NS,yes
+Muthoot Finance,MUTHOOTFIN.NS,yes
+Manappuram Finance,MANAPPURAM.NS,yes
+Manappuram,MANAPPURAM.NS,yes
+Vedanta,VEDL.NS,yes
+Tata Steel,TATASTEEL.NS,yes
+JSW Steel,JSWSTEEL.NS,yes
+Bajaj Auto,BAJAJ-AUTO.NS,yes
+Sun Pharma,SUNPHARMA.NS,yes
+PB Fintech,POLICYBZR.NS,yes
+Suzlon Energy,SUZLON.NS,yes
+BHEL,BHEL.NS,yes
+Bharat Electronics,BEL.NS,yes
+BEL,BEL.NS,no
+HAL,HAL.NS,no
+BDL,BDL.NS,no
+Voltas,VOLTAS.NS,yes
+DMart,DMART.NS,yes
+CG Power,CGPOWER.NS,yes
+Hitachi Energy,POWERINDIA.NS,yes
+Mtar Tech,MTARTECH.NS,yes
+E2E Networks,E2E.NS,yes
+Hindustan Aeronautics,HAL.NS,yes
+Amber Enterprises,AMBER.NS,yes
+Info Edge,NAUKRI.NS,yes
+Vodafone Idea,IDEA.NS,yes
+RVNL,RVNL.NS,yes
+Swiggy,SWIGGY.NS,yes
+Sapphire Foods,SAPPHIRE.NS,yes
+Apollo Micro Systems,APOLLO.NS,yes
+M&M,M&M.NS,yes
+Mahindra & Mahindra,M&M.NS,yes
+Redington,REDINGTON.NS,yes
+MCX,MCX.NS,yes
+ONGC,ONGC.NS,yes
+Ola Electric,OLAELEC.NS,yes
+Tata Chemicals,TATACHEM.NS,yes
+Cipla,CIPLA.NS,yes
+Kaynes Tech,KAYNES.NS,yes
+Solar Industries,SOLARINDS.NS,yes
+Chambal Fertilisers,CHAMBLFERT.NS,yes
+HDFC AMC,HDFCAMC.NS,yes
+BPCL,BPCL.NS,yes
+Eternal,ETERNAL.NS,yes
+Afcons Infrastructure,AFCONS.NS,yes
+Siemens,SIEMENS.NS,yes
+Indus Towers,INDUSTOWER.NS,yes
+Concor,CONCOR.NS,yes
+Hindustan Zinc,HINDZINC.NS,yes
+Coromandel,COROMANDEL.NS,yes
+Adani Enterprises,ADANIENT.NS,yes
+Devyani Intl,DEVYANI.NS,yes
+Lodha,LODHA.NS,yes
+Oberoi Realty,OBEROIRLTY.NS,yes
+Persistent Systems,PERSISTENT.NS,yes
+IRFC,IRFC.NS,yes
+NALCO,NATIONALUM.NS,yes
+NBCC,NBCC.NS,yes
+Cochin Shipyard,COCHINSHIP.NS,yes
+KPIT Tech,KPITTECH.NS,yes
+Ather Energy,ATHERENERG.NS,yes
+Dixon Technologies,DIXON.NS,yes
+Hindustan Copper,HINDCOPPER.NS,yes
+Bharat Dynamics,BDL.NS,yes
+Jio Financial,JIOFIN.NS,yes
+Paras Defence,PARAS.NS,yes
+Waaree Renewable Technologies,WAAREERTL.NS,yes
+Bajaj Finance,BAJFINANCE.NS,yes
+Dabur India,DABUR.NS,yes
+UPL,UPL.NS,yes
+Nykaa,NYKAA.NS,yes
+PNB Housing,PNBHOUSING.NS,yes
+PNB Housing Finance,PNBHOUSING.NS,yes
+Exide,EXIDEIND.NS,yes
+Tata Power,TATAPOWER.NS,yes
+Eicher Motors,EICHERMOT.NS,yes
+PVR INOX,PVRINOX.NS,yes
+Tech Mahindra,TECHM.NS,yes
+United Breweries,UBL.NS,yes
+Coforge,COFORGE.NS,yes
+Glenmark,GLENMARK.NS,yes
+IRB Infra,IRB.NS,yes
+HPCL,HINDPETRO.NS,yes
+SpiceJet,SPICEJET.NS,yes
+Mphasis,MPHASIS.NS,yes
+Sun TV Network,SUNTV.NS,yes
+Paytm,PAYTM.NS,yes
+Zydus Lifesciences,ZYDUSLIFE.NS,yes
+RBL Bank,RBLBANK.NS,yes
+Prestige Estates,PRESTIGE.NS,yes
+Federal Bank,FEDERALBNK.NS,yes
+L&T Tech Services,LTTS.NS,yes
+Shriram Finance,SHRIRAMFIN.NS,yes
+AU Small Finance Bank,AUBANK.NS,yes
+Kotak Bank,KOTAKBANK.NS,yes
+United Spirits,UNITDSPR.NS,yes
+Titagarh Rail Systems,TITAGARH.NS,yes
+Varun Beverages,VBL.NS,yes
+InterGlobe Aviation,INDIGO.NS,yes
+Marico,MARICO.NS,yes
+HDFC Life,HDFCLIFE.NS,yes
+Mold-Tek,MOLDTKPAC.NS,yes
+VRL Logistics,VRLLOG.NS,yes
+Netweb,NETWEB.NS,yes
+Jupiter Wagons,JWL.NS,yes
+Hyundai,HYUNDAI.NS,no
+Hyundai Motor,HYUNDAI.NS,yes
+Max Healthcare Institute,MAXHEALTH.NS,yes
+Nibe,NIBE.NS,yes
+Honasa Consumer,HONASA.NS,yes
+Mamaearth,HONASA.NS,yes
+Hindalco,HINDALCO.NS,yes
+Jaro Education,JAROEDU.NS,yes
+Force Motors,FORCEMOT.NS,yes
+JBM Auto,JBMA.NS,yes
+Acme Solar,ACMESOLAR.NS,yes
+Motilal Oswal Financial Services,MOTILALOFS.NS,yes
+Doms Industries,DOMS.NS,yes
+Lemon Tree Hotels,LEMONTREE.NS,yes
+Rashi Peripherals,RPTECH.NS,yes
+Deccan Cements,DECCANCE.NS,yes
+RITES,RITES.NS,yes
+Dhanlaxmi Bank,DHANBANK.NS,yes
+ZEE,ZEEL.NS,yes
+ZEEL,ZEEL.NS,yes
+Zee Entertainment,ZEEL.NS,yes
+Welspun Enterprises,WELENT.NS,yes
+Welspun Corp,WELCORP.NS,yes
+Orchid Pharma,ORCHPHARMA.NS,yes
+Fino Payments Bank,FINOPB.NS,yes
+Ashiana Housing,ASHIANA.NS,yes
+Gandhar Oil,GANDHAR.NS,yes
+DCB Bank,DCBBANK.NS,yes
+Landmark Cars,LANDMARK.NS,yes
+MOIL,MOIL.NS,no
+Restaurant Brands,RBA.NS,yes
+Restaurant Brands Asia,RBA.NS,yes
+Ujaas Energy,UJAAS.NS,yes
+Fineotex Chemical,FCL.NS,yes
+Ashoka Buildcon,ASHOKA.NS,yes
+Caplin Point Laboratories,CAPLIPOINT.NS,yes
+Ratnamani Metals & Tubes,RATNAMANI.NS,yes
+Tribhovandas Bhimji Zaveri,TBZ.NS,yes
+Neogen Chemicals,NEOGEN.NS,yes
+Quick Heal Technologies,QUICKHEAL.NS,yes
+Indian Card Clothing,INDIANCARD.NS,yes
+Omaxe,OMAXE.NS,yes
+Petronet LNG,PETRONET.NS,yes
+GE Shipping,GESHIP.NS,yes
+Marine Electricals,MARINE.NS,yes
+Hero MotoCorp,HEROMOTOCO.NS,yes
+Titan,TITAN.NS,no
+Rajesh Exports,RAJESHEXPO.NS,yes
+BSE,BSE.NS,no
+IIFL Finance,IIFL.NS,yes
+Radico Khaitan,RADICO.NS,yes
+Tilaknagar Industries,TI.NS,yes
+Polycab,POLYCAB.NS,yes
+Canara Bank,CANBK.NS,yes
+PNB,PNB.NS,no
+SBI,SBIN.NS,no
+Bank of Baroda,BANKBARODA.NS,yes
+VA Tech Wabag,WABAG.NS,yes
+Page Industries,PAGEIND.NS,yes
+Divi's Labs,DIVISLAB.NS,yes
+KEC International,KEC.NS,yes
+Lupin,LUPIN.NS,yes
+Dr Reddy's,DRREDDY.NS,yes
+Alkem Labs,ALKEM.NS,yes
+Aurobindo Pharma,AUROPHARMA.NS,yes
+Rallis India,RALLIS.NS,yes
+Sobha,SOBHA.NS,yes
+Just Dial,JUSTDIAL.NS,yes
+SML Mahindra,SMLMAH.NS,yes
+Dodla Dairy,DODLA.NS,yes
+Jana SFB,JSFB.NS,yes
+Hathway Cable,HATHWAY.NS,yes
+Bandhan Bank,BANDHANBNK.NS,yes
+Tata Motors,TMPV.NS,yes
+TMPV,TMPV.NS,yes
+Maruti,MARUTI.NS,no
+Max Healthcare,MAXHEALTH.NS,yes
+Gokaldas Exports,GOKEX.NS,yes
+Syngene,SYNGENE.NS,yes
+KRBL,KRBL.NS,yes
+Akums Drugs,AKUMS.NS,yes
+Hikal,HIKAL.NS,yes
+Borosil,BOROSIL.NS,yes
+Aequs,AEQUS.NS,yes
+Sona BLW Precision,SONACOMS.NS,yes
+Sona Comstar,SONACOMS.NS,yes
+Bharti Airtel,BHARTIARTL.NS,yes
+Airtel,BHARTIARTL.NS,no
+Adani Ports,ADANIPORTS.NS,yes
+Larsen & Toubro,LT.NS,no
+L&T,LT.NS,no
+Asian Paints,ASIANPAINT.NS,yes
+Power Grid,POWERGRID.NS,yes
+NTPC,NTPC.NS,yes
+Coal India,COALINDIA.NS,yes
+Trent,TRENT.NS,no
+Tata Consumer,TATACONSUM.NS,yes
+Indian Hotels,INDHOTEL.NS,yes
+Apollo,APOLLOHOSP.NS,no
+Apollo Hospitals,APOLLOHOSP.NS,yes
+L&T Technology Services,LTTS.NS,yes
+RIL,RELIANCE.NS,no
+OFSS,OFSS.NS,yes
+IFCI,IFCI.NS,yes
+NIACL,NIACL.NS,yes
+TRF,TRF.NS,yes
+Meesho,MEESHO.NS,yes
+GM Breweries,GMBREW.NS,yes
+NLC India,NLCINDIA.NS,yes
+NLC,NLCINDIA.NS,no
+MobiKwik,MOBIKWIK.NS,yes
+KCP Sugar,KCPSUGIND.NS,yes
+Jindal Drilling,JINDRILL.NS,yes

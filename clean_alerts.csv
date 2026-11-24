@@ -1,0 +1,320 @@
+alert_id,date,time,ticker,company,mapped_from,type,confidence,article_count,score_avg,market_mood,top_headline,headline_direction,label_status,times_seen,same_day_conflict
+778,2026-05-13,07:30,RELIANCE.NS,Reliance,company_field,buy,91,,,Bullish,,n/a,n/a,1,False
+773,2026-05-14,05:50,CIPLA.NS,Cipla,company_field,rise,95,1.0,,Neutral,Cipla: Strong pipeline to help US business recovery,rise,match,1,False
+774,2026-05-14,05:50,KAYNES.NS,JPMorgan,headline,fall,97,1.0,,Neutral,Kaynes Tech plunges over 17% as firm misses guidance in Q4; JPMorgan downgrades stock,fall,match,2,False
+772,2026-05-15,05:56,JSWSTEEL.NS,JSW Steel Q4 FY26,company_field,rise,95,1.0,,Bullish,JSW Steel Q4 FY26: Robust numbers ride on exceptional gains,rise,match,1,False
+770,2026-05-15,05:56,TMPV.NS,JLR,headline,rise,94,1.0,,Bullish,"Tata Motors PV stock soars up to 8% on improving JLR demand, launch pipeline",rise,match,2,False
+763,2026-05-16,05:29,CHAMBLFERT.NS,Chambal Fertilisers,company_field,rise,94,1.0,,Neutral,Chambal Fertilisers rallies 6% as Q4 net profit climbs to Rs 169 crore,rise,match,3,False
+767,2026-05-16,05:29,HAL.NS,Hindustan Aeronautics,company_field,fall,97,1.0,,Neutral,"Hindustan Aeronautics shares fall 4% as Q4 results miss estimates, brokerages flag weak profitability",fall,match,1,False
+764,2026-05-16,05:29,SOLARINDS.NS,Solar Industries,company_field,rise,94,1.0,,Neutral,Solar Industries Q4FY26 consolidated net profit surges 61%,rise,match,2,False
+756,2026-05-18,06:16,AMBER.NS,Amber Enterprises,company_field,fall,97,1.0,,Neutral,Amber Enterprises crashes 15% as firm flags margin pressure post-Q4 results; other AC shares fall up to 6%,fall,match,1,False
+754,2026-05-18,06:16,BPCL.NS,BPCL,company_field,fall,97,1.0,,Neutral,"BPCL, Eternal, IndiGo, other crude-sensitive stocks fall up to 3% as Brent oil touches two-week high",fall,match,1,False
+753,2026-05-18,06:16,ETERNAL.NS,Eternal,company_field,fall,97,1.0,,Neutral,"BPCL, Eternal, IndiGo, other crude-sensitive stocks fall up to 3% as Brent oil touches two-week high",fall,match,1,False
+757,2026-05-18,06:16,HAL.NS,Hindustan Aeronautics,company_field,fall,97,1.0,,Neutral,"Hindustan Aeronautics shares fall over 4%, extend three-day decline to 11%; brokerages flag weak Q4 results",fall,match,1,False
+755,2026-05-18,06:16,HDFCAMC.NS,HDFC AMC,company_field,fall,97,1.0,,Neutral,HDFC AMC shares fall 3% after cybersecurity incident,fall,match,1,False
+751,2026-05-19,06:09,AFCONS.NS,Rs 88,headline,fall,97,1.0,,Neutral,Afcons Infrastructure slumps 4% after reporting Rs 88 crore Q4 loss,fall,match,2,False
+750,2026-05-19,06:09,AMBER.NS,Amber Enterprises,company_field,fall,97,1.0,,Neutral,Amber Enterprises Q4 FY26: Margin concerns trigger sharp correction,fall,match,1,False
+746,2026-05-20,06:09,HINDALCO.NS,Novelis,headline,rise,95,1.0,,Neutral,Hindalco shares rise 3.5% as Novelis reports higher operating profit in Q4,rise,match,1,False
+744,2026-05-20,06:09,JAROEDU.NS,Jaro Education,company_field,fall,81,1.0,,Neutral,"Singularity AMC exits Jaro Education, promoter accumulates more shares",unclear,unclear,1,False
+745,2026-05-20,06:09,RELIANCE.NS,Reliance,company_field,fall,91,1.0,,Neutral,"Sensex Today | Stock Market Live: Sensex pares losses to under 200 points, Nifty above 23,550; auto, Reliance support recovery",unclear,unclear,1,False
+747,2026-05-20,06:09,ZEEL.NS,Rs 104-crore,headline,fall,96,1.0,,Neutral,Zee Entertainment falls 6% as firm posts Rs 104-crore loss; Elara downgrades stock to 'sell',fall,match,1,False
+739,2026-05-22,06:08,HONASA.NS,Jefferies,headline,rise,95,1.0,,Neutral,Mamaearth parent's shares jump 10% post-Q4 results; Jefferies sees firm 'on strong growth path',rise,match,2,False
+737,2026-05-22,06:08,MAXHEALTH.NS,Max Healthcare Institute Q4,company_field,rise,95,1.0,,Neutral,Max Healthcare Institute Q4 network profit up 3% at Rs 387 crore,unclear,unclear,1,False
+738,2026-05-22,06:08,NIBE.NS,Nibe,company_field,rise,95,1.0,,Neutral,Suryastra rocket testfire sends Nibe 10% higher; stock up 27% in 3 days,rise,match,1,False
+741,2026-05-22,06:08,TCS.NS,TCS,company_field,fall,97,1.0,,Neutral,"TCS freezes promotion-linked ‘Wings’ assessment, upskilling amid AI-led workforce reset",unclear,unclear,1,False
+735,2026-05-23,05:41,MTARTECH.NS,Rs 467,headline,rise,95,1.0,,Neutral,"MTAR Tech shares hit all-time high on securing fresh order worth Rs 467 crore, stock up 22% in 3-day rally",rise,match,2,False
+732,2026-05-23,05:41,NAUKRI.NS,Info Edge,company_field,rise,94,1.0,,Neutral,Info Edge shares jump up to 6% as Q4 net profit jumps 22%,rise,match,1,False
+729,2026-05-24,06:03,IDEA.NS,Vodafone Idea,company_field,rise,94,1.0,,Neutral,"Vodafone Idea shares jump 6.5% in 4-day rally, stock up nearly 45% in one month",rise,match,1,False
+724,2026-05-25,06:29,HDFCBANK.NS,HDFC Bank,company_field,rise,93,1.0,,Bullish,"Auto, banking stocks power market rally; Eicher Motors jumps 5%, HDFC Bank, ICICI Bank among top Nifty drivers",rise,match,1,False
+723,2026-05-25,06:29,ICICIBANK.NS,ICICI Bank,company_field,rise,93,1.0,,Bullish,"Auto, banking stocks power market rally; Eicher Motors jumps 5%, HDFC Bank, ICICI Bank among top Nifty drivers",rise,match,1,False
+725,2026-05-25,06:29,JWL.NS,Railways,headline,rise,94,1.0,,Bullish,"Titagarh, Jupiter Wagons shares rise up to 8.5% amid buzz of mega Rs 40,000-crore wagon tender from Railways",rise,match,3,False
+721,2026-05-26,06:08,CONCOR.NS,Concor,company_field,fall,96,1.0,,Neutral,"RVNL, Concor stocks tumble up to 6%, emerge as top BSE Midcap losers after weak Q4 earnings",fall,match,1,False
+718,2026-05-26,06:08,INDUSTOWER.NS,Indus Towers,company_field,rise,95,1.0,,Neutral,"Indus Towers stock gets CLSA's high-conviction 'Outperform' call; brokerage sees tenancy growth driven by Airtel, Vi",rise,match,1,False
+722,2026-05-26,06:08,RVNL.NS,RVNL,company_field,fall,96,1.0,,Neutral,"RVNL, Concor stocks tumble up to 6%, emerge as top BSE Midcap losers after weak Q4 earnings",fall,match,1,False
+713,2026-05-27,06:23,COALINDIA.NS,Centre,headline,fall,96,1.0,,Neutral,Coal India shares tumble nearly 4% after Centre launches 2% stake sale via OFS,fall,match,1,False
+715,2026-05-27,06:23,HDFCBANK.NS,Rs 45,headline,fall,97,1.0,,Neutral,HDFC Bank shares fall nearly 2% after report on internal probe into Rs 45 crore interest payments,fall,match,2,False
+717,2026-05-27,06:23,ONGC.NS,ONGC,company_field,fall,97,1.0,,Neutral,ONGC shares fall 4% amid modest growth in Q4 net profit,fall,match,1,False
+708,2026-05-28,06:14,JSWSTEEL.NS,"Rs 65,000",headline,rise,94,1.0,,Neutral,"JSW Steel shares gain over 1% after launch of Rs 65,000 crore Odisha steel plant project",rise,match,2,False
+710,2026-05-28,06:14,SIEMENS.NS,JM Financial,headline,rise,95,1.0,,Neutral,Siemens shares rise 5% despite mixed Q4; JM Financial maintains 'add' rating,rise,match,2,False
+703,2026-05-31,06:20,RELIANCE.NS,Reliance,company_field,rise,95,1.0,,Neutral,"Moody's upgrades Reliance to Baa1 on strong balance sheet, diversified businesses",rise,match,2,False
+699,2026-06-02,06:44,FORCEMOT.NS,Govt,headline,fall,97,1.0,,Neutral,Buzzing Stocks: Force Motors falls 5% on weal sales data; NHPC down 4% on Govt stake sale,fall,match,2,False
+696,2026-06-02,06:44,OLAELEC.NS,QIP,headline,fall,96,1.0,,Neutral,Ola Electric shares fall up to 4% as firm launches QIP to raise up to Rs 500 crore,fall,match,2,False
+691,2026-06-04,06:44,HEROMOTOCO.NS,E20-E85,headline,rise,94,1.0,,Neutral,Hero MotoCorp rises nearly 3% after company launches two flex fuel motorcycles compatible with E20-E85 fuel,rise,match,1,False
+693,2026-06-04,06:44,JBMA.NS,JBM Auto,company_field,rise,94,1.0,,Neutral,JBM Auto shares rise over 6% as company says market share in e-bus segment rises to 49% in May,rise,match,1,False
+692,2026-06-04,06:44,RAJESHEXPO.NS,Rs 15.15,headline,fall,94,1.0,,Neutral,Rajesh Exports hits lower circuit as SEBI finds Rs 15.15 lakh crore of misrepresented numbers at firm,fall,match,1,False
+687,2026-06-05,06:24,AUROPHARMA.NS,USFDA,headline,rise,93,2.0,0.89,Neutral,Aurobindo Pharma shares gain on USFDA approval for Tofacitinib tablets,rise,match,1,False
+686,2026-06-05,06:24,CGPOWER.NS,CG Power,company_field,rise,93,1.0,,Neutral,Buzzing Stocks: CG Power hits record high after plant commissioning; Aurobindo Pharma rises on USFDA nod,rise,match,1,False
+690,2026-06-05,06:24,HINDZINC.NS,Hindustan Zinc,company_field,fall,96,1.0,,Neutral,Hindustan Zinc stock crashes over 4% today on report of possible government stake sale; among top largecap losers,fall,match,1,False
+682,2026-06-06,05:55,ACMESOLAR.NS,QIP,headline,rise,93,1.0,,Neutral,"Acme Solar shares rise 2% on raising Rs 2,800 crore via QIP route",rise,match,3,False
+679,2026-06-08,06:45,INFY.NS,Infosys,company_field,fall,97,1.0,,Neutral,"Nifty IT falls 1.7%, down 8% in 4 sessions as AI trade reverses; global tech selloff hits Infosys, TCS, Wipro",fall,match,1,False
+677,2026-06-08,06:45,TCS.NS,TCS,company_field,fall,96,2.0,-0.94,Neutral,"Nifty IT falls 1.7%, down 8% in 4 sessions as AI trade reverses; global tech selloff hits Infosys, TCS, Wipro",fall,match,1,False
+678,2026-06-08,06:45,WIPRO.NS,Wipro,company_field,fall,97,1.0,,Neutral,"Nifty IT falls 1.7%, down 8% in 4 sessions as AI trade reverses; global tech selloff hits Infosys, TCS, Wipro",fall,match,1,False
+674,2026-06-09,06:11,NLCINDIA.NS,Centre,headline,fall,95,1.0,,Neutral,NLC India slips over 4% as Centre announces 3% stake sale via OFS,fall,match,1,False
+673,2026-06-09,06:11,SWIGGY.NS,Swiggy,company_field,rise,94,1.0,,Neutral,"Eternal, Swiggy shares gain today even as Zepto files IPO papers, highlights rapid quick commerce growth",rise,match,1,False
+665,2026-06-11,06:50,HCLTECH.NS,HCL Tech,company_field,fall,91,2.0,-0.85,Neutral,"Nifty IT tumbles over 2%; Infosys, HCL Tech, TCS among top drags as AI concerns weigh on sector",unclear,unclear,1,False
+669,2026-06-11,06:50,M&M.NS,Mahindra & Mahindra,company_field,fall,97,1.0,,Neutral,Mahindra & Mahindra falls nearly 2% as supplier labour shortage threatens SUV output,fall,match,1,False
+668,2026-06-11,06:50,MTARTECH.NS,MTAR Tech,company_field,fall,97,1.0,,Neutral,MTAR Tech shares fall 9% as key global client faces major setback in US,fall,match,1,False
+666,2026-06-11,06:50,TCS.NS,TCS,company_field,fall,96,1.0,,Neutral,"Nifty IT tumbles over 2%; Infosys, HCL Tech, TCS among top drags as AI concerns weigh on sector",unclear,unclear,1,False
+660,2026-06-12,06:43,HDFCBANK.NS,Bank Nifty,headline,rise,89,2.0,0.85,Bullish,"Bank Nifty jumps over 1%, all 14 constituents gain; HDFC Bank leads banking stocks higher",rise,match,2,False
+662,2026-06-12,06:43,MOTILALOFS.NS,UBS,headline,rise,92,2.0,0.89,Bullish,Motilal Oswal Financial Services stock jumps 5% as UBS initiates coverage with ‘buy’; sees 38% upside,rise,match,2,False
+664,2026-06-12,06:43,ONGC.NS,ONGC,company_field,fall,96,1.0,,Bullish,"ONGC, Oil India fall up to 2% as Brent crude drops below $90 on Middle East peace hopes",fall,match,1,False
+655,2026-06-13,06:18,AXISBANK.NS,Axis Bank,company_field,rise,94,1.0,,Neutral,"Bank Nifty jumps 3%, all 14 stocks gain sharply; HDFC Bank, Axis Bank among top drivers of banking rally",rise,match,1,False
+656,2026-06-13,06:18,HDFCBANK.NS,HDFC Bank,company_field,rise,94,1.0,,Neutral,"Bank Nifty jumps 3%, all 14 stocks gain sharply; HDFC Bank, Axis Bank among top drivers of banking rally",rise,match,1,False
+658,2026-06-13,06:18,NESTLEIND.NS,FSSAI,headline,fall,96,1.0,,Neutral,Nestle India declines 3% after FSSAI issues notice over alleged insect detection in Maggi; FMCG firm rejects allegations,fall,match,2,False
+648,2026-06-16,07:29,ADANIENT.NS,Adani Enterprises,company_field,rise,94,1.0,,Bullish,Adani Enterprises stock rises over 1% after AI alliance with Jabil; extends gains for third straight session,rise,match,1,False
+649,2026-06-16,07:29,COROMANDEL.NS,Coromandel,company_field,rise,94,1.0,,Bullish,"FACT, Coromandel, other fertiliser shares gain up to 14% ahead of likely opening of Strait of Hormuz on Friday",rise,match,1,False
+651,2026-06-16,07:29,DEVYANI.NS,Devyani Intl,company_field,rise,94,1.0,,Bullish,"Devyani Intl, Sapphire Foods shares rise up to 9% on approval from NSE, BSE for merger",rise,match,1,False
+650,2026-06-16,07:29,SAPPHIRE.NS,Sapphire Foods,company_field,rise,94,1.0,,Bullish,"Devyani Intl, Sapphire Foods shares rise up to 9% on approval from NSE, BSE for merger",rise,match,1,False
+647,2026-06-16,07:29,SUZLON.NS,Suzlon Energy,company_field,rise,94,1.0,,Bullish,Suzlon Energy shares rise over 5% as govt seeks assessment of old wind turbines,rise,match,1,False
+643,2026-06-17,07:11,DOMS.NS,Doms Industries,company_field,fall,96,1.0,,Neutral,"Doms Industries shares decline 3% as promoter likely sold 7.3% stake for nearly Rs 1,000 crore",fall,match,1,False
+646,2026-06-17,07:11,LODHA.NS,Lodha,company_field,fall,97,1.0,,Neutral,"Lodha drops 4%, Oberoi Realty slips 3% as BMC shuts water supply to construction sites across Mumbai",fall,match,1,False
+645,2026-06-17,07:11,OBEROIRLTY.NS,Oberoi Realty,company_field,fall,97,1.0,,Neutral,"Lodha drops 4%, Oberoi Realty slips 3% as BMC shuts water supply to construction sites across Mumbai",fall,match,1,False
+642,2026-06-17,07:11,SAPPHIRE.NS,Sapphire Foods,company_field,fall,96,1.0,,Neutral,"Sapphire Foods down 1%, Devyani International sheds 1.4% after Yum Brands announces Pizza Hut sale",fall,match,1,False
+639,2026-06-18,06:53,HCLTECH.NS,HCL Tech,company_field,fall,96,1.0,,Neutral,"IT stocks drag Nifty despite firm broader market; Infosys, TCS, HCL Tech fall as Fed signals rate hike risk",fall,match,1,False
+638,2026-06-18,06:53,HDFCBANK.NS,HDFC Bank,company_field,rise,95,1.0,,Neutral,HDFC Bank stock rises nearly 2%; chairman appointment progress seen easing governance overhang,rise,match,1,False
+641,2026-06-18,06:53,INFY.NS,Infosys,company_field,fall,96,1.0,,Neutral,"IT stocks drag Nifty despite firm broader market; Infosys, TCS, HCL Tech fall as Fed signals rate hike risk",fall,match,1,False
+640,2026-06-18,06:53,TCS.NS,TCS,company_field,fall,96,1.0,,Neutral,"IT stocks drag Nifty despite firm broader market; Infosys, TCS, HCL Tech fall as Fed signals rate hike risk",fall,match,1,False
+635,2026-06-19,07:08,INFY.NS,Infosys,company_field,fall,97,2.0,-0.95,Neutral,"Infosys, Wipro ADRs crash up to 10% overnight; IT stocks set for weak start after Accenture’s guidance cut",fall,match,1,False
+632,2026-06-19,07:08,TCS.NS,TCS,company_field,fall,96,1.0,,Neutral,"Nifty IT slumps 6%, Infosys, TCS stocks crash up to 8% as Accenture guidance cut sparks sell-off",fall,match,1,False
+636,2026-06-19,07:08,WIPRO.NS,Wipro,company_field,fall,97,1.0,,Neutral,"Infosys, Wipro ADRs crash up to 10% overnight; IT stocks set for weak start after Accenture’s guidance cut",fall,match,1,False
+630,2026-06-20,06:22,INFY.NS,Accenture,headline,fall,97,1.0,,Neutral,"Nifty IT recovers from 6% fall, still ends down 3.7%; Infosys sinks 7%, leads losses after Accenture shock",fall,match,2,False
+625,2026-06-23,06:08,LEMONTREE.NS,Lemon Tree Hotels,company_field,fall,97,1.0,,Neutral,"Buzzing Stocks: Vedanta slips 7% as promoter sales stake; Craftsman Automation, Lemon Tree Hotels gain",rise,mismatch,1,False
+624,2026-06-23,06:08,MUTHOOTFIN.NS,Muthoot Finance,company_field,fall,95,1.0,,Neutral,"Gold, silver prices tumble up to 3%: Hindustan Zinc stock falls 3%, Muthoot Finance 2%",fall,match,1,False
+621,2026-06-23,06:08,SUNPHARMA.NS,Sun Pharma,company_field,rise,93,1.0,,Neutral,"Nifty Pharma jumps nearly 2%; Dr Reddy's, Sun Pharma and Cipla lead gains, dominate Nifty gainers list",rise,match,1,False
+622,2026-06-23,06:08,TRF.NS,TRF,company_field,rise,95,1.0,,Neutral,"Momentum Stocks: TRF, Pace Digitek, Om Infra gain up to 10% on sheer momentum",rise,match,1,False
+623,2026-06-23,06:08,VEDL.NS,"Rs 2,149",headline,fall,95,1.0,,Neutral,"Vedanta stock falls 6% as promoter stake sale worth Rs 2,149 crore goes through via block deals",fall,match,1,False
+618,2026-06-24,06:08,BAJAJ-AUTO.NS,Bajaj Auto,company_field,fall,96,1.0,,Neutral,"Bajaj Auto shares fall up to 2.5%, become top Nifty loser amid cyberattack involving ransomware",fall,match,1,False
+617,2026-06-24,06:08,IRFC.NS,IRFC,company_field,fall,96,2.0,-0.95,Neutral,"Buzzing Stocks: IRFC sheds 5% on OFS plans; Infosys, Pine Labs, Rashi Peripherals advance",fall,match,1,False
+619,2026-06-24,06:08,RPTECH.NS,Rashi Peripherals,company_field,fall,97,1.0,,Neutral,"Buzzing Stocks: IRFC sheds 5% on OFS plans; Infosys, Pine Labs, Rashi Peripherals advance",rise,mismatch,1,False
+613,2026-06-26,06:12,ADANIPORTS.NS,BBB,headline,rise,95,1.0,,Neutral,"S&P upgrades Adani Ports to 'BBB', cites strong cash flows despite aggressive expansion plans",rise,match,4,False
+596,2026-06-29,06:49,DECCANCE.NS,Deccan Cements,company_field,rise,95,1.0,,Neutral,"Momentum Stocks: Vikran Engg, Deccan Cements, TSF Investments, gain up to 8% on sheer momentum",rise,match,1,False
+598,2026-06-29,06:49,KOTAKBANK.NS,Kotak Mahindra Bank,company_field,fall,96,1.0,,Neutral,Kotak Mahindra Bank stock falls 2% as CEO succession weighs; brokerages bullish on long-term outlook,fall,match,1,False
+597,2026-06-29,06:49,PERSISTENT.NS,Persistent Systems,company_field,fall,96,1.0,,Neutral,"Persistent Systems stock crashes 10%, top midcap loser today; brokerages find Nagarro acquisition expensive",fall,match,1,False
+594,2026-06-30,06:13,ADANIPORTS.NS,MSC,headline,rise,92,1.0,,Neutral,Adani Ports says MSC's TiL to invest $1.4 billion for 49% stake in Vizhinjam Port; shares gain over 1%,unclear,unclear,1,False
+588,2026-07-01,06:28,RITES.NS,RITES,company_field,rise,95,1.0,,Neutral,"Momentum Stocks: RITES, Haleon Labs, Drone Destination gain up to 11% on sheer momentum",rise,match,1,False
+583,2026-07-02,06:01,DHANBANK.NS,Dhanlaxmi Bank,company_field,fall,97,1.0,,Neutral,"Buzzing Stocks: ZEE shares fall 3% on warrant issue; Dhanlaxmi Bank, South Indian Bank gain on healthy Q1 business",rise,mismatch,1,False
+580,2026-07-02,06:01,VEDL.NS,Vedanta,company_field,rise,94,1.0,,Neutral,"Vedanta Iron & Steel, three other Vedanta Group stocks rise for 2nd day, gain up to 10%, after exiting the T2T segment",rise,match,1,False
+584,2026-07-02,06:01,ZEEL.NS,ZEE,company_field,fall,97,1.0,,Neutral,"Buzzing Stocks: ZEE shares fall 3% on warrant issue; Dhanlaxmi Bank, South Indian Bank gain on healthy Q1 business",fall,match,1,False
+579,2026-07-03,05:55,CGPOWER.NS,CG Power,company_field,fall,97,1.0,,Neutral,"CG Power, Hitachi Energy fall up to 7.5% as Centre allows four Chinese-linked power equipment firms to bid for govt projects",fall,match,1,False
+575,2026-07-03,05:55,DMART.NS,Goldman Sachs,headline,fall,96,1.0,,Neutral,"DMart stock falls 4% after Q1 business update disappoints; Goldman Sachs, Macquarie stay bearish",fall,match,2,False
+578,2026-07-03,05:55,POWERINDIA.NS,Hitachi Energy,company_field,fall,97,1.0,,Neutral,"CG Power, Hitachi Energy fall up to 7.5% as Centre allows four Chinese-linked power equipment firms to bid for govt projects",fall,match,1,False
+571,2026-07-04,05:47,BEL.NS,Bharat Electronics,company_field,rise,94,1.0,,Neutral,"Bharat Electronics, HAL rise up to 2% ahead of DAC meeting on Rs 1 lakh crore defence proposals",rise,match,1,False
+570,2026-07-04,05:47,HAL.NS,HAL,company_field,rise,94,1.0,,Neutral,"Bharat Electronics, HAL rise up to 2% ahead of DAC meeting on Rs 1 lakh crore defence proposals",rise,match,1,False
+572,2026-07-04,05:47,NATIONALUM.NS,NALCO,company_field,rise,94,1.0,,Neutral,"Metal, real estate stocks rise up to 5% as Fed rate hike prospects fade; NALCO, Lodha among top gainers",unclear,unclear,1,False
+567,2026-07-06,06:37,BANKBARODA.NS,NMC,headline,fall,95,1.0,,Neutral,"Nomura stays 'Neutral' on Bank of Baroda, says NMC settlement could wipe out nearly one quarter's profit",unclear,unclear,2,False
+565,2026-07-06,06:37,HYUNDAI.NS,Hyundai,company_field,rise,95,1.0,,Neutral,"M&M, Hyundai India, Ather among Nomura's top auto picks after strong June sales",rise,match,1,False
+566,2026-07-06,06:37,M&M.NS,M&M,company_field,rise,95,1.0,,Neutral,"M&M, Hyundai India, Ather among Nomura's top auto picks after strong June sales",rise,match,1,False
+564,2026-07-06,06:37,NBCC.NS,NBCC,company_field,fall,94,1.0,,Neutral,NBCC bags orders worth Rs 132 crore; share price down marginally,unclear,unclear,1,False
+560,2026-07-07,06:09,APOLLO.NS,"Rs 3,322",headline,fall,96,1.0,,Neutral,"Apollo Micro Systems stock falls 5% again today after board OKs Rs 3,322 cr fundraise; among top smallcap losers",fall,match,2,False
+559,2026-07-07,06:09,COCHINSHIP.NS,Cochin Shipyard,company_field,fall,95,1.0,,Neutral,Cochin Shipyard shares fall over 4% as govt to sell up to 5% stake via OFS,fall,match,1,False
+562,2026-07-07,06:09,VEDL.NS,Vedanta,company_field,fall,97,1.0,,Neutral,"Vedanta Oil & Gas, two other Vedanta Group stocks fall for 3rd straight day, decline up to 5%",fall,match,1,False
+557,2026-07-08,05:22,JINDRILL.NS,Jindal Drilling,company_field,rise,95,1.0,,Neutral,"Momentum Stocks: Silver Touch, Vital Chemtech, Jindal Drilling gain 3-4% on sheer momentum",rise,match,1,False
+555,2026-07-08,05:22,KPITTECH.NS,Goldman Sachs,headline,fall,94,1.0,,Neutral,"KPIT Tech stock rating: Goldman Sachs cuts target price, sees flat FY27 revenue growth amid weak demand",fall,match,2,False
+554,2026-07-08,05:22,ORCHPHARMA.NS,Orchid Pharma,company_field,rise,94,1.0,,Neutral,Buzzing Stocks: Embassy Developments jumps 4% on robust Q1 pre-sales; Orchid Pharma rallies 9% on Russia licensing pact,rise,match,1,False
+549,2026-07-09,06:06,ATHERENERG.NS,"Rs 1,470",headline,rise,95,1.0,,Neutral,"Ather Energy remains Nomura's top EV pick; 'Buy' retained, target hiked to Rs 1,470",unclear,unclear,2,False
+553,2026-07-09,06:06,DRREDDY.NS,API,headline,fall,97,1.0,,Neutral,"Dr Reddy's delays semaglutide commercial production due to API issue, shares fall 2%",fall,match,1,False
+551,2026-07-09,06:06,NLCINDIA.NS,NLC,company_field,fall,96,1.0,,Neutral,Buzzing Stocks: Tata Steel slips after Q1 business update; NLC India gains on NALCO JV,rise,mismatch,1,False
+552,2026-07-09,06:06,TATASTEEL.NS,Tata Steel,company_field,fall,96,1.0,,Neutral,Buzzing Stocks: Tata Steel slips after Q1 business update; NLC India gains on NALCO JV,fall,match,1,False
+547,2026-07-10,06:05,DIXON.NS,Dixon Technologies,company_field,rise,95,1.0,,Bullish,Dixon Technologies stock jumps 4% as Vivo JV approval boosts growth outlook; brokerages see up to 24% upside,rise,match,1,False
+548,2026-07-10,06:05,GMBREW.NS,GM Breweries Q1,company_field,rise,95,1.0,,Bullish,"GM Breweries Q1 FY27: Strong margins continue, input costs a key factor",rise,match,1,False
+545,2026-07-10,06:05,MANAPPURAM.NS,Manappuram Finance,company_field,rise,95,1.0,,Bullish,"Hindustan Zinc, Muthoot Finance, Manappuram Finance gain up to 3% despite softer gold prices",rise,match,1,False
+546,2026-07-10,06:05,MUTHOOTFIN.NS,Muthoot Finance,company_field,rise,95,1.0,,Bullish,"Hindustan Zinc, Muthoot Finance, Manappuram Finance gain up to 3% despite softer gold prices",rise,match,1,False
+543,2026-07-11,05:14,HINDCOPPER.NS,Hindustan Copper,company_field,rise,94,1.0,,Neutral,Hindustan Copper shares rise nearly 3% as industrial metal heads for second weekly gain; metal index gains 1.5%,rise,match,1,False
+531,2026-07-13,05:39,BDL.NS,Bharat Dynamics,company_field,fall,93,1.0,,Neutral,Bharat Dynamics stock falls 2.5% amid report of Centre planning private entry into missile manufacturing,fall,match,1,False
+533,2026-07-13,05:39,DMART.NS,DMart,company_field,fall,96,2.0,-0.93,Neutral,DMart stock crashes 4% after Q1 results as brokerages warn quick commerce is hurting metro growth,fall,match,1,False
+532,2026-07-13,05:39,FINOPB.NS,Fino Payments Bank,company_field,rise,95,1.0,,Neutral,"Buzzing Stocks: Fino Payments Bank, Just Dial shares jump up to 13% on strong business updates",rise,match,1,False
+535,2026-07-13,05:39,SWIGGY.NS,Swiggy,company_field,fall,96,1.0,,Neutral,"Swiggy shares fall over 1% as FSSAI cracks down on Instamart, issues 9 notices following consumer complaints",fall,match,1,False
+526,2026-07-14,04:53,HCLTECH.NS,HCL Tech Q1,company_field,rise,95,1.0,,Neutral,HCL Tech Q1 FY27: Good quarter; valuation looks reasonable,unclear,unclear,1,False
+528,2026-07-14,04:53,WELENT.NS,"Rs 7,300",headline,fall,97,1.0,,Neutral,"Welspun Enterprises arm signs Rs 7,300 crore Pune-Shirur highway project; shares down marginally",unclear,unclear,2,False
+523,2026-07-16,05:12,HDFCAMC.NS,AMC,headline,rise,95,1.0,,Bullish,"Q1 FY27 results: ICICI AMC, HDFC AMC deliver steady growth as SBI AMC enters the market",unclear,unclear,1,False
+515,2026-07-17,05:16,JIOFIN.NS,Jio Financial,company_field,rise,92,2.0,0.9,Neutral,"Sensex up 600 pts, Nifty tops 24,200; IT buying, Jio Financial earnings among key factors lifting indices today",unclear,unclear,1,False
+516,2026-07-17,05:16,WIPRO.NS,Jefferies,headline,fall,92,1.0,,Neutral,"Wipro stock rating: Brokerages split after Q1 results; Nomura stays bullish, Jefferies cuts estimates",unclear,unclear,2,False
+518,2026-07-17,05:16,WIPRO.NS,Wipro,company_field,fall,95,1.0,,Neutral,"Buzzing Stocks: Tech Mahindra rallies on Q1 beat; Wipro, CEAT decline after June-quarter results",fall,match,1,False
+511,2026-07-18,04:50,RELIANCE.NS,Reliance,company_field,rise,94,1.0,,Neutral,Reliance beats Street expectations as all key businesses post double-digit growth,rise,match,1,False
+512,2026-07-18,04:50,RELIANCE.NS,RIL,company_field,rise,96,1.0,,Neutral,RIL Q1 FY27: Strong show by oil derivatives business despite volatile energy markets,rise,match,2,False
+505,2026-07-19,05:23,ICICIBANK.NS,ICICI Bank Q1,company_field,rise,95,1.0,,Bullish,"ICICI Bank Q1 net profit rises 16% to Rs 14,805 crore, beats estimates; asset quality improves",rise,match,1,False
+506,2026-07-19,05:23,KOTAKBANK.NS,"Rs 4,123",headline,rise,95,1.0,,Bullish,"Kotak Mahindra Bank Q1 net profit rises 26% to Rs 4,123 crore, beats estimates; asset quality improves",rise,match,2,False
+508,2026-07-19,05:23,YESBANK.NS,"Rs 1,071",headline,rise,95,1.0,,Bullish,"Yes Bank Q1 profit rises 34% to Rs 1,071 crore; NII grows 17.5%, asset quality improves",rise,match,1,False
+500,2026-07-21,05:22,ASHIANA.NS,Ashiana Housing,company_field,rise,95,1.0,,Neutral,"Momentum Stocks: KCP Sugar, Ashiana Housing, Supreme Infra rise up to 16% on sheer momentum",rise,match,1,False
+502,2026-07-21,05:22,HDFCBANK.NS,HDFC Bank,company_field,fall,96,1.0,,Neutral,"HDFC Bank shares extend fall for second day, top Nifty loser today despite Street's bullish view",fall,match,1,False
+501,2026-07-21,05:22,KCPSUGIND.NS,KCP Sugar,company_field,rise,95,1.0,,Neutral,"Momentum Stocks: KCP Sugar, Ashiana Housing, Supreme Infra rise up to 16% on sheer momentum",rise,match,1,False
+496,2026-07-22,05:21,BANDHANBNK.NS,NIM,headline,fall,97,1.0,,Neutral,Bandhan Bank shares crash 15% as lender sees NIM declining slightly over next two quarters,fall,match,1,False
+497,2026-07-22,05:21,PARAS.NS,"Rs 6,200",headline,fall,97,1.0,,Neutral,"Paras Defence shares fall 1% despite Rs 6,200 crore semiconductor facility plan",fall,match,2,False
+494,2026-07-22,05:21,SUNPHARMA.NS,Sun Pharma,company_field,fall,95,1.0,,Neutral,"Nifty Pharma slides nearly 2%; Sun Pharma, Cipla, Dr Reddy's among top Nifty losers after Trump's tariff plan",fall,match,1,False
+492,2026-07-23,05:26,DRREDDY.NS,post-Q1,headline,fall,97,1.0,,Neutral,"Dr Reddy's shares slip 2.5% on margin, semaglutide supply woes; brokerages slash earnings estimates post-Q1",fall,match,1,False
+489,2026-07-23,05:26,GANDHAR.NS,Gandhar Oil,company_field,rise,95,1.0,,Neutral,"Gandhar Oil hits 20% UC as Q1 net profit quadruples QoQ; Panama Petro, Savita Oil rise up to 10% on rub-off effect",unclear,unclear,1,False
+491,2026-07-23,05:26,NESTLEIND.NS,Nestle India,company_field,fall,97,1.0,,Neutral,"Nestle India stock extends fall to over 2% after post-results rally, among top Nifty losers; brokerages divided on outlook",unclear,unclear,1,False
+493,2026-07-23,05:26,WAAREERTL.NS,Waaree Renewable Technologies,company_field,fall,97,1.0,,Neutral,Waaree Renewable Technologies share price slips nearly 5% despite healthy Q1 earnings,fall,match,1,False
+484,2026-07-24,05:21,MEESHO.NS,Meesho,company_field,rise,93,1.0,,Neutral,"Buzzing Stock: Suryoday Small Finance Bank rallies 9%, Infosys, IndiGo, Meesho react to Q1 results",rise,match,1,False
+480,2026-07-27,05:51,DCBBANK.NS,DCB Bank,company_field,rise,95,2.0,0.92,Bullish,"Momentum Stocks: DCB Bank, Srinibas Pradhan, Surana Solar gain up to 10% on sheer momentum",rise,match,1,False
+479,2026-07-27,05:51,LANDMARK.NS,Landmark Cars,company_field,rise,95,1.0,,Bullish,Buzzing Stock: DCB Bank shares up 6% on strong earnings; Landmark Cars jumps 4% on LoI from JSW MG Motor,rise,match,1,False
+474,2026-07-28,05:16,BEL.NS,BEL,company_field,fall,97,1.0,,Neutral,"Buzzing Stocks: Coal India, Godfrey Phillips, BEL, Tata Chemicals fall 3-5% after Q1 earnings",fall,match,1,False
+472,2026-07-28,05:16,HDFCBANK.NS,HDFC Bank,company_field,fall,96,1.0,,Neutral,"HDFC Bank slips nearly 1% after board fines CEO, CFO over MSRDC matter",fall,match,1,False
+475,2026-07-28,05:16,HINDUNILVR.NS,"Rs 2,673cr",headline,fall,97,1.0,,Neutral,"Stock Market Live: Sensex, Nifty trade flat in volatile session; HUL slips after Q1 profit declines to Rs 2,673cr",fall,match,2,False
+473,2026-07-28,05:16,TATACHEM.NS,Tata Chemicals,company_field,fall,97,1.0,,Neutral,"Buzzing Stocks: Coal India, Godfrey Phillips, BEL, Tata Chemicals fall 3-5% after Q1 earnings",fall,match,1,False
+466,2026-07-30,05:00,MOIL.NS,MOIL,company_field,rise,94,2.0,0.9,Neutral,Buzzing Stocks: MTAR Tech gains on higher order value; MOIL jumps 8% after 70% profit surge,rise,match,1,False
+467,2026-07-30,05:00,MTARTECH.NS,MTAR Tech,company_field,rise,94,1.0,,Neutral,MTAR Tech shares rise nearly 5% as Q1 net profit jumps nearly five-fold,rise,match,1,False
+469,2026-07-30,05:00,REDINGTON.NS,Rs 453,headline,rise,95,1.0,,Neutral,Redington shares rise up to 15% as Q1 net profit nearly doubles to Rs 453 crore,rise,match,2,False
+460,2026-08-01,05:29,ZEEL.NS,ZEEL,company_field,fall,90,1.0,,Neutral,"SEBI bars Punit Goenka, Subhash Chandra for a year over unauthorised mortgage of ZEEL property",unclear,unclear,1,False
+456,2026-08-02,05:29,BAJFINANCE.NS,Bajaj Finance,company_field,rise,92,1.0,,Neutral,"Chartist Talk: Will Hyundai Motor and Bajaj Finance rally further? SBI Securities' Sudeep Shah says a decisive breakout above 24,600 will set Nifty 50's next directional move",rise,match,1,False
+457,2026-08-02,05:29,HYUNDAI.NS,Hyundai Motor,company_field,rise,92,1.0,,Neutral,"Chartist Talk: Will Hyundai Motor and Bajaj Finance rally further? SBI Securities' Sudeep Shah says a decisive breakout above 24,600 will set Nifty 50's next directional move",rise,match,1,False
+453,2026-08-03,05:43,MUTHOOTFIN.NS,Muthoot Finance,company_field,fall,96,2.0,-0.94,Neutral,Muthoot Finance crashes up to 11% as Q1 results miss estimates; Jefferies downgrades stock to 'hold',fall,match,2,False
+448,2026-08-04,05:16,DABUR.NS,FSSAI,headline,fall,97,1.0,,Neutral,"Dabur India shares drop 2.42% after FSSAI bans '100%' claims on honey, ghee, coconut water",fall,match,2,False
+446,2026-08-04,05:16,RBA.NS,Restaurant Brands,company_field,rise,94,1.0,,Neutral,"Momentum Stocks: Restaurant Brands, Mohit Industries, Steel City Securities rise up to 15% on sheer momentum",rise,match,1,False
+447,2026-08-04,05:16,UPL.NS,UPL,company_field,fall,96,1.0,,Neutral,"Price Action: Restaurant Brands Asia jumps 10%, UPL down 5% on CEO resignation",unclear,unclear,1,False
+442,2026-08-05,05:16,EXIDEIND.NS,"PNB Housing, Exide",company_field,rise,91,1.0,,Neutral,"Momentum Stocks: PNB Housing, Exide hit new high; Ujaas Energy, Aastha Spintex locked at circuit",rise,match,1,False
+440,2026-08-05,05:16,MCX.NS,MCX,company_field,rise,91,1.0,,Neutral,Price Action: Sheela Foam up 2% on nine-fold jump in Q1 profit; MCX slips 3%,fall,mismatch,1,False
+444,2026-08-05,05:16,NYKAA.NS,Nykaa,company_field,fall,96,1.0,,Neutral,Nykaa stock falls more than 2% after Q1 results despite brokerages retaining bullish view,fall,match,1,False
+442,2026-08-05,05:16,PNBHOUSING.NS,"PNB Housing, Exide",company_field,rise,91,1.0,,Neutral,"Momentum Stocks: PNB Housing, Exide hit new high; Ujaas Energy, Aastha Spintex locked at circuit",rise,match,1,False
+441,2026-08-05,05:16,UJAAS.NS,Ujaas Energy,company_field,rise,91,1.0,,Neutral,"Momentum Stocks: PNB Housing, Exide hit new high; Ujaas Energy, Aastha Spintex locked at circuit",unclear,unclear,1,False
+437,2026-08-06,05:18,FCL.NS,Fineotex Chemical,company_field,rise,95,1.0,,Neutral,"Momentum Stocks: Navin Fluorine, Eppeltone Engineers, Fineotex Chemical gain up to 12% on sheer momentum",rise,match,1,False
+418,2026-08-13,04:13,TMPV.NS,Nomura,headline,rise,92,1.0,,Neutral,"Tata Motors stock jumps 6% after strong Q1; Nomura upgrades to Buy, CLSA sees over 30% upside",rise,match,2,False
+414,2026-08-14,04:10,ASHOKA.NS,LoI,headline,rise,94,1.0,,Neutral,Ashoka Buildcon shares gains on LoI from REC Power,rise,match,2,False
+416,2026-08-14,04:10,TMPV.NS,JLR,headline,fall,94,1.0,,Neutral,"Tata Motors PV stock falls 4.5% after Q1; brokerages cautious on margins, JLR recovery despite strong India biz",fall,match,2,False
+409,2026-08-15,02:53,VOLTAS.NS,Rs 214,headline,rise,93,1.0,,Neutral,"Voltas Q1 net profit rises 53% to Rs 214 crore, company announces JV with Atomberg to build AC compressors",rise,match,2,False
+373,2026-08-24,03:03,CAPLIPOINT.NS,Caplin Point Laboratories,company_field,rise,88,1.0,,Neutral,Caplin Point Laboratories shares in focus post 10 observations from USFDA,unclear,unclear,1,False
+366,2026-08-25,02:58,RATNAMANI.NS,"Rs 2,700",headline,rise,91,1.0,,Neutral,"Ratnamani Metals & Tubes shares surge 18% on bagging export orders worth Rs 2,700 crore",rise,match,2,False
+359,2026-08-27,12:25,HDFCBANK.NS,Closing Bell,headline,fall,96,1.0,,Neutral,Live: US lawsuit against HDFC Bank triggers stock down; Market breadth weak | Closing Bell,fall,match,1,False
+358,2026-08-27,12:25,LUPIN.NS,Sell,headline,fall,96,1.0,,Neutral,Lupin shares recover from six-month low after 1.8% fall; Citi downgrades stock to Sell,unclear,unclear,1,False
+360,2026-08-27,12:25,TATAPOWER.NS,Tata Power,company_field,fall,96,1.0,,Neutral,Tata Power shares fall 4.5% to hit 7-month low as company loses appeal against $490-mn charge,fall,match,1,False
+356,2026-08-27,12:25,WIPRO.NS,Google Cloud,headline,rise,95,1.0,,Neutral,Wipro ADR rises 5% in pre-market trading as IT firm expands partnership with Google Cloud for adoption of AI,rise,match,2,False
+355,2026-08-28,13:51,BDL.NS,BDL,company_field,fall,96,1.0,,Neutral,"BDL, HAL, other defence shares fall up to 4% as govt opens general export licence framework",fall,match,1,False
+354,2026-08-28,13:51,HAL.NS,HAL,company_field,fall,96,1.0,,Neutral,"BDL, HAL, other defence shares fall up to 4% as govt opens general export licence framework",fall,match,1,False
+351,2026-08-28,13:51,HDFCBANK.NS,HDFC Bank,company_field,fall,85,1.0,,Neutral,HDFC Bank stock rebounds after one-year low; Macquarie sees 62% upside but flags CEO uncertainty,unclear,unclear,1,False
+353,2026-08-28,13:51,OLAELEC.NS,Ola Electric,company_field,rise,94,1.0,,Neutral,Ola Electric shares gain 3% as new S1Z scooter brings in-house Bharat Cell to mass market,rise,match,1,False
+344,2026-09-01,07:21,AXISBANK.NS,Axis Bank,company_field,fall,93,1.0,,Neutral,"Bank Nifty falls 400 points today as CAS-driven surge fizzles out; Axis Bank, Yes Bank lead losses",fall,match,1,False
+346,2026-09-01,07:21,TBZ.NS,"Rs 1,034",headline,rise,94,1.0,,Neutral,"Tribhovandas Bhimji Zaveri shares hit 20% upper circuit as GRT Jewellers to acquire 74% stake for Rs 1,034 crore",rise,match,1,False
+341,2026-09-02,06:52,EICHERMOT.NS,Eicher Motors,company_field,fall,97,1.0,,Neutral,"Momentum Stocks: Hero MotoCorp, Eicher Motors down 4%; RVNL, HUL, Swan Corp hit 52-week low",fall,match,1,False
+339,2026-09-02,06:52,HINDUNILVR.NS,HUL,company_field,fall,97,1.0,,Neutral,"Momentum Stocks: Hero MotoCorp, Eicher Motors down 4%; RVNL, HUL, Swan Corp hit 52-week low",fall,match,1,False
+340,2026-09-02,06:52,RVNL.NS,RVNL,company_field,fall,97,1.0,,Neutral,"Momentum Stocks: Hero MotoCorp, Eicher Motors down 4%; RVNL, HUL, Swan Corp hit 52-week low",fall,match,1,False
+326,2026-09-07,07:04,HINDUNILVR.NS,FMCG,headline,rise,95,1.0,,Neutral,HUL stock outlook: Brokerages see up to 26% upside as FMCG major sharpens ‘New India’ growth strategy,unclear,unclear,2,False
+325,2026-09-07,07:04,INFY.NS,Infosys,company_field,fall,95,1.0,,Neutral,"Nifty IT falls over 1%; Infosys, Tech Mahindra, HCL Tech lead losses as Fed rate hike bets rise",unclear,unclear,1,False
+328,2026-09-07,07:04,PVRINOX.NS,PVR Inox,company_field,fall,97,1.0,,Neutral,PVR Inox shares fall 8% amid internal probe into alleged Rs 200-crore kickbacks,fall,match,1,False
+324,2026-09-07,07:04,TECHM.NS,Tech Mahindra,company_field,fall,95,1.0,,Neutral,"Nifty IT falls over 1%; Infosys, Tech Mahindra, HCL Tech lead losses as Fed rate hike bets rise",unclear,unclear,1,False
+319,2026-09-08,06:59,IFCI.NS,IFCI,company_field,fall,97,1.0,,Neutral,"NIACL, IFCI shares fall up to 12% amid profit booking as NSE IPO GMP declines",fall,match,1,False
+320,2026-09-08,06:59,NIACL.NS,NIACL,company_field,fall,97,1.0,,Neutral,"NIACL, IFCI shares fall up to 12% amid profit booking as NSE IPO GMP declines",fall,match,1,False
+321,2026-09-08,06:59,UBL.NS,United Breweries,company_field,fall,97,1.0,,Neutral,"Momentum Stocks: Ducol Organics, Magson Retail, SPP Polymer down 4-6%; Voltas, United Breweries, ICICI Lombard hit 52-week low",fall,match,1,False
+322,2026-09-08,06:59,VOLTAS.NS,Voltas,company_field,fall,97,1.0,,Neutral,"Momentum Stocks: Ducol Organics, Magson Retail, SPP Polymer down 4-6%; Voltas, United Breweries, ICICI Lombard hit 52-week low",fall,match,1,False
+318,2026-09-09,07:07,COFORGE.NS,"Coforge, Infosys",company_field,fall,97,1.0,,Neutral,"IT shares fall for 6th straight session; Coforge, Infosys, TCS fall up to 6%",fall,match,1,False
+318,2026-09-09,07:07,INFY.NS,"Coforge, Infosys",company_field,fall,97,1.0,,Neutral,"IT shares fall for 6th straight session; Coforge, Infosys, TCS fall up to 6%",fall,match,1,False
+317,2026-09-09,07:07,TCS.NS,TCS,company_field,fall,97,1.0,,Neutral,"IT shares fall for 6th straight session; Coforge, Infosys, TCS fall up to 6%",fall,match,1,False
+312,2026-09-10,07:04,GLENMARK.NS,Glenmark,company_field,rise,95,1.0,,Neutral,"Zydus, Glenmark lead pharma growth in August; semaglutide generics sales rise 2%: Nomura",unclear,unclear,1,False
+313,2026-09-10,07:04,HCLTECH.NS,HCL Tech,company_field,fall,96,1.0,,Neutral,"HCL Tech stock falls 1.5%, leads Nifty losers; Citi bearish, flags rich valuation despite AI progress",fall,match,1,False
+309,2026-09-10,07:04,IRB.NS,IRB Infra,company_field,rise,95,1.0,,Neutral,"Buzzing Stocks: IRB Infra gains 4% on 25% jump in toll revenue; Dilip Buildcon surges 6% on ₹1,800 crore project win",rise,match,1,False
+310,2026-09-10,07:04,REDINGTON.NS,Apple,headline,rise,95,1.0,,Neutral,"Redington shares rise up to 5.5% as Apple launches iPhone 18 series, hikes iPhone 17 prices in India",rise,match,2,False
+305,2026-09-11,07:03,HINDPETRO.NS,HPCL,company_field,fall,97,1.0,,Neutral,"Airline, OMCs, paint and tyre stocks fall up to 5% as Brent nears $110; SpiceJet, HPCL among major losers",fall,match,1,False
+304,2026-09-11,07:03,NEOGEN.NS,Neogen Chemicals,company_field,fall,97,1.0,,Neutral,Price Action: Neogen Chemicals shares fall 4% on QIP launch; Shankesh Jewellers surges 12% after Q1 profit doubles,fall,match,1,False
+306,2026-09-11,07:03,SPICEJET.NS,SpiceJet,company_field,fall,97,1.0,,Neutral,"Airline, OMCs, paint and tyre stocks fall up to 5% as Brent nears $110; SpiceJet, HPCL among major losers",fall,match,1,False
+285,2026-09-17,07:14,IFCI.NS,IFCI,company_field,rise,94,1.0,,Neutral,"NIACL, IFCI shares rise up to 9% as NSE IPO opens for subscription",rise,match,1,False
+283,2026-09-17,07:14,LUPIN.NS,Nomura,headline,rise,93,1.0,,Neutral,"Lupin shares gain over 1 % after Nomura reaffirms 'Buy', Rs 2,675 target",rise,match,1,False
+286,2026-09-17,07:14,NIACL.NS,NIACL,company_field,rise,94,1.0,,Neutral,"NIACL, IFCI shares rise up to 9% as NSE IPO opens for subscription",rise,match,1,False
+287,2026-09-17,07:14,POLICYBZR.NS,PB Fintech,company_field,fall,97,1.0,,Neutral,PB Fintech shares fall nearly 6% even as CEO denies reports he will quit,fall,match,1,False
+281,2026-09-18,07:07,TATACHEM.NS,Tata Chemicals,company_field,fall,93,1.0,,Neutral,"Tata Chemicals shares crash 7.5% amid Tata Sons listing row; TMPV, TCS down 2%: Here's why",fall,match,1,False
+278,2026-09-18,07:07,TCS.NS,TCS,company_field,fall,93,1.0,,Neutral,"Tata Chemicals shares crash 7.5% amid Tata Sons listing row; TMPV, TCS down 2%: Here's why",unclear,unclear,1,False
+279,2026-09-18,07:07,TMPV.NS,TMPV,company_field,fall,93,1.0,,Neutral,"Tata Chemicals shares crash 7.5% amid Tata Sons listing row; TMPV, TCS down 2%: Here's why",unclear,unclear,1,False
+265,2026-09-21,07:41,GOKEX.NS,Trump,headline,fall,96,2.0,-0.94,Neutral,"Gokaldas Exports, other textile stocks fall up to 4% as Trump signs Russia sanction bill",fall,match,1,False
+266,2026-09-21,07:41,OFSS.NS,Oracle,headline,fall,97,1.0,,Neutral,OFSS shares fall 6.5% as report says Oracle's $18-billion data centre debt under pressure,fall,match,2,False
+248,2026-09-25,07:11,INFY.NS,Infosys,company_field,fall,95,1.0,,Neutral,"IT shares fall for sixth straight session; OFSS, Infosys top losers: Here's why",unclear,unclear,1,False
+249,2026-09-25,07:11,OFSS.NS,OFSS,company_field,fall,95,1.0,,Neutral,"IT shares fall for sixth straight session; OFSS, Infosys top losers: Here's why",unclear,unclear,1,False
+245,2026-09-26,07:08,MEESHO.NS,Rs 167,headline,fall,97,1.0,,Neutral,"Meesho shares fall 6% as Nomura warns of premium valuation, initiates 'Reduce' with Rs 167 target price",fall,match,5,False
+244,2026-09-26,07:08,OLAELEC.NS,Ola Electric,company_field,fall,96,1.0,,Neutral,"Ola Electric shares fall up to 9%, snap 4-day run, ahead of board meeting to consider fundraise",fall,match,2,False
+242,2026-09-26,07:08,OMAXE.NS,Omaxe,company_field,fall,90,1.0,,Neutral,"SEBI finds Omaxe, promoter-linked entities breached MPS norms through 2013 OFS, imposes restraint and penalty",unclear,unclear,1,False
+237,2026-09-27,07:40,RADICO.NS,JM Financial,headline,rise,94,2.0,0.92,Neutral,Radico Khaitan shares gain up to 3% as JM Financial sees 16% upside,rise,match,1,False
+233,2026-09-28,08:18,GESHIP.NS,GE Shipping,company_field,rise,93,1.0,,Neutral,"Price Action: Marine Electricals shares gain 3% on order win, GE Shipping up 4% after Nomura initiates 'Buy'",rise,match,1,False
+234,2026-09-28,08:18,MARINE.NS,Marine Electricals,company_field,rise,93,1.0,,Neutral,"Price Action: Marine Electricals shares gain 3% on order win, GE Shipping up 4% after Nomura initiates 'Buy'",rise,match,1,False
+231,2026-09-29,07:57,HCLTECH.NS,HCL Tech,company_field,fall,97,1.0,,Neutral,Buzzing Stocks: HCL Tech down on acquiring Croatia-based Robotiq.ai; Petronet LNG dips 2% as Jefferies keeps 'underperform',fall,match,1,False
+229,2026-09-29,07:57,PETRONET.NS,Petronet LNG,company_field,fall,97,1.0,,Neutral,Buzzing Stocks: HCL Tech down on acquiring Croatia-based Robotiq.ai; Petronet LNG dips 2% as Jefferies keeps 'underperform',fall,match,1,False
+227,2026-09-29,07:57,POLICYBZR.NS,PB Fintech,company_field,fall,97,1.0,,Neutral,"PB Fintech shares crash another 6% today, lose 43% in 4 straight sessions as IRDAI proposals continue to weigh",fall,match,1,False
+223,2026-10-01,08:23,APOLLOHOSP.NS,Apollo,company_field,fall,97,1.0,,Neutral,"Hospital stocks extend losses as drug-pricing regulation concerns linger; Apollo, Max among top Nifty losers",fall,match,1,False
+225,2026-10-01,08:23,BAJAJ-AUTO.NS,Bajaj Auto,company_field,fall,97,1.0,,Neutral,"Bajaj Auto crashes 8%, auto stocks slide on weak September sales; Maruti, M&M among top losers, Hyundai gains",fall,match,1,False
+224,2026-10-01,08:23,HYUNDAI.NS,Hyundai,company_field,fall,97,1.0,,Neutral,"Bajaj Auto crashes 8%, auto stocks slide on weak September sales; Maruti, M&M among top losers, Hyundai gains",unclear,unclear,1,False
+222,2026-10-01,08:23,M&M.NS,M&M,company_field,fall,95,2.0,-0.92,Neutral,"Bajaj Auto crashes 8%, auto stocks slide on weak September sales; Maruti, M&M among top losers, Hyundai gains",unclear,unclear,1,False
+221,2026-10-01,08:23,POWERINDIA.NS,Hitachi Energy,company_field,rise,95,1.0,,Neutral,"Hitachi Energy India: Strong orders, broader growth opportunity",rise,match,1,False
+218,2026-10-02,08:00,COFORGE.NS,"Mphasis, Coforge",company_field,rise,95,1.0,,Neutral,"IT shares buck trend amid market crash; Mphasis, Coforge, Infosys rise up to 5%",rise,match,1,False
+217,2026-10-02,08:00,INFY.NS,Infosys,company_field,rise,95,1.0,,Neutral,"IT shares buck trend amid market crash; Mphasis, Coforge, Infosys rise up to 5%",rise,match,1,False
+218,2026-10-02,08:00,MPHASIS.NS,"Mphasis, Coforge",company_field,rise,95,1.0,,Neutral,"IT shares buck trend amid market crash; Mphasis, Coforge, Infosys rise up to 5%",rise,match,1,False
+213,2026-10-03,07:40,HDFCBANK.NS,MD &,headline,rise,92,1.0,,Neutral,HDFC Bank ADRs surge 4% as RBI approves Anup Bagchi as new MD & CEO,rise,match,2,False
+205,2026-10-05,08:27,BEL.NS,BEL,company_field,fall,95,1.0,,Neutral,"Defence shares extend decline for 2nd session; BEL, MTAR drag index as HAL bucks trend; check gainers and losers",unclear,unclear,1,False
+206,2026-10-05,08:27,YESBANK.NS,YES Bank,company_field,rise,95,1.0,,Neutral,"AU SFB, BoB, YES Bank, Suryoday SFB shares rise up to 5% on Q2 business updates",rise,match,1,False
+201,2026-10-07,08:13,PVRINOX.NS,CLSA,headline,fall,97,1.0,,Neutral,Buzzing Stocks: Titan down 4% post Q2 business performance; PVR INOX up 7% after CLSA keeps 'outperform',rise,mismatch,2,False
+194,2026-10-08,08:29,HDFCBANK.NS,HDFC Bank,company_field,fall,97,1.0,,Neutral,HDFC Bank shares fall nearly 1.5% after FIIs sell 2.4% stake in September quarter,fall,match,1,False
+196,2026-10-08,08:29,MOBIKWIK.NS,MobiKwik,company_field,fall,97,1.0,,Neutral,"MobiKwik, Paytm, Pine Labs fall up to 7% on UPI MDR deferral report",fall,match,1,False
+197,2026-10-08,08:29,SUNTV.NS,Sun TV Network,company_field,fall,97,1.0,,Neutral,Sun TV Network shares snap 3-day run to fall over 2% amid profit booking; Elara sees 45% upside,fall,match,1,False
+189,2026-10-09,08:33,NAUKRI.NS,Info Edge,company_field,rise,95,1.0,,Neutral,"Thermax, Info Edge rise up to 4% as Kotak Equities upgrades both stocks to 'Buy'",rise,match,1,False
+191,2026-10-09,08:33,SUNPHARMA.NS,Sun Pharma,company_field,rise,95,1.0,,Neutral,"Lupin, Sun Pharma, Zydus Lifesciences gain up to 1.5% as Nomura retains 'Buy' ratings amid pharma growth surge",rise,match,1,False
+190,2026-10-09,08:33,ZYDUSLIFE.NS,Zydus Lifesciences,company_field,rise,95,1.0,,Neutral,"Lupin, Sun Pharma, Zydus Lifesciences gain up to 1.5% as Nomura retains 'Buy' ratings amid pharma growth surge",rise,match,1,False
+181,2026-10-11,08:22,DMART.NS,Rs 743,headline,rise,95,1.0,,Neutral,"DMart’s Q2FY27 net profit rises 8.5% to Rs 743 crore, revenue grows 17.8%",rise,match,2,False
+173,2026-10-13,09:02,E2E.NS,E2E Networks,company_field,fall,97,1.0,,Neutral,"E2E Networks, Hitachi Energy India, other AI-related stocks fall up to 5% amid global AI jitters",fall,match,1,False
+171,2026-10-13,09:02,POLYCAB.NS,F&O,headline,fall,97,1.0,,Neutral,Polycab shares fall up to 5% as NSE to exclude company from F&O segment,fall,match,1,False
+172,2026-10-13,09:02,POWERINDIA.NS,Hitachi Energy,company_field,fall,97,1.0,,Neutral,"E2E Networks, Hitachi Energy India, other AI-related stocks fall up to 5% amid global AI jitters",fall,match,1,False
+169,2026-10-13,09:02,RBLBANK.NS,RBL Bank,company_field,fall,95,1.0,,Neutral,RBL Bank stock plunges 9% despite nearly tripling Q2 profit; here's why brokerages remain cautious,fall,match,1,False
+168,2026-10-14,07:10,BANKBARODA.NS,BR Shetty,headline,fall,96,1.0,,Bullish,Bank of Baroda shares fall 3% as BR Shetty files $15 billion lawsuit; lender vows to defend claims,fall,match,1,False
+165,2026-10-14,07:10,PRESTIGE.NS,Nomura,headline,rise,93,1.0,,Bullish,Prestige Estates pre-sales beat estimates at Rs 72.25 billion in Q2; Nomura maintains FY27 forecast,rise,match,2,False
+167,2026-10-14,07:10,TRF.NS,TRF,company_field,rise,95,1.0,,Bullish,"Momentum Stocks: Sportking India, TRF, Jindal Poly Films gain up to 13% on sheer momentum",rise,match,1,False
+160,2026-10-15,07:02,BHEL.NS,JM Financial,headline,fall,94,1.0,,Neutral,"BHEL shares fall over 4% despite stellar Q2; CLSA flags rich valuations, JM Financial raises target",fall,match,3,False
+163,2026-10-15,07:02,HATHWAY.NS,Hathway Cable,company_field,fall,97,1.0,,Neutral,Price Action: NIIT gains on CEO appointment; Hathway Cable slips after Q2 profit decline,fall,match,1,False
+158,2026-10-16,06:47,NESTLEIND.NS,Nestle India,company_field,fall,97,1.0,,Neutral,Nestle India stock falls further after 8% crash on Q2 results; HSBC sees 16% upside but flags growth slowdown,fall,match,1,False
+156,2026-10-16,06:47,WIPRO.NS,Nomura,headline,rise,94,1.0,,Neutral,"Wipro shares rise 2% after Q2 results; Nomura sees 15% upside, retains Buy rating",rise,match,2,False
+151,2026-10-17,06:38,YESBANK.NS,S&P,headline,fall,97,1.0,,Neutral,Yes Bank shares tumble 17% in two days on SC's AT-1 bond verdict; S&P expects lender to remain adequately capitalised,fall,match,3,False
+144,2026-10-18,07:01,AXISBANK.NS,Bank,headline,rise,93,1.0,,Neutral,"Axis Bank Q2 net profit jumps 38% to Rs 7,003 crore, misses estimates; NII beats poll, asset quality improves",unclear,unclear,1,False
+147,2026-10-18,07:01,HDFCBANK.NS,"Rs 19,510",headline,rise,95,1.0,,Neutral,"HDFC Bank Q2 results: Net profit rises 4.7% to Rs 19,510 crore, broadly meets estimates; asset quality improves",rise,match,2,False
+145,2026-10-18,07:01,ICICIBANK.NS,"Rs 14,843",headline,rise,95,1.0,,Neutral,"ICICI Bank Q2 results: Net profit rises 20% to Rs 14,843 crore, beats estimates; NII up 18%",rise,match,2,False
+143,2026-10-19,07:23,DODLA.NS,Dodla Dairy,company_field,fall,97,1.0,,Neutral,Price Action: Axis Bank shares fall 3.5% post Q2 earnings; Dodla Dairy slips 4%,fall,match,1,False
+142,2026-10-19,07:23,HDFCBANK.NS,HDFC Bank,company_field,fall,97,1.0,,Neutral,Buzzing Stocks: Urban Company slumps 9% on widening Q2 losses; HDFC Bank jumps 2% on better earnings,rise,mismatch,1,False
+138,2026-10-20,07:14,FEDERALBNK.NS,Federal Bank,company_field,fall,96,1.0,,Neutral,Jana SFB shares fall 13% to hit 6-month low as Federal Bank says no plan to buy stake,fall,match,1,False
+135,2026-10-20,07:14,JSWSTEEL.NS,Rs 696,headline,rise,93,1.0,,Neutral,JSW Steel rises 2.5% to become top Nifty gainer as Odisha HC quashes Rs 696 crore demand,rise,match,2,False
+133,2026-10-21,07:09,INFY.NS,Infosys,company_field,fall,96,1.0,,Neutral,"Buzzing Stocks: Infosys jumps 2% on Truist collaboration; Sobha, SML Mahindra, Just Dial fall 3-8% after Q2 earnings",rise,mismatch,1,False
+130,2026-10-21,07:09,LTTS.NS,L&T Tech Services,company_field,rise,95,1.0,,Neutral,L&T Tech Services shares rally over 14% after strong revenue growth in Q2 results,rise,match,1,False
+131,2026-10-21,07:09,SMLMAH.NS,SML Mahindra,company_field,fall,96,1.0,,Neutral,"Buzzing Stocks: Infosys jumps 2% on Truist collaboration; Sobha, SML Mahindra, Just Dial fall 3-8% after Q2 earnings",fall,match,1,False
+126,2026-10-22,07:11,BEL.NS,Rs 770-crore,headline,fall,97,1.0,,Neutral,Bharat Electronics shares fall over 2% despite Rs 770-crore radar deal,fall,match,2,False
+118,2026-10-24,06:55,INFY.NS,Infosys,company_field,fall,71,4.0,-0.44,Neutral,Infosys Q2 results: IT major's ADR falls 6% after it lowers annual revenue growth guidance,fall,match,2,False
+119,2026-10-24,06:55,JSWSTEEL.NS,JSW Steel Q2,company_field,rise,95,1.0,,Neutral,"JSW Steel Q2 results: Profit zooms 225% YoY at Rs 5,279 on record sales, firm flat steel prices; revenue rises 10.7%",rise,match,1,False
+113,2026-10-26,07:29,APOLLO.NS,Apollo Micro Systems,company_field,rise,94,1.0,,Bullish,Apollo Micro Systems share rises 12% on strong September quarter results,rise,match,1,False
+115,2026-10-26,07:29,AUBANK.NS,AU Small Finance Bank,company_field,fall,95,1.0,,Bullish,AU Small Finance Bank shares fall over 7% amid margin concerns in Q2; here's what brokerages say,fall,match,1,False
+117,2026-10-26,07:29,INFY.NS,Infosys,company_field,fall,97,1.0,,Bullish,"Buzzing Stocks: Infosys down 2%, Dr Reddy’s Lab up 3% post Q2 results; Shriram Finance sheds 5%",fall,match,1,False
+114,2026-10-26,07:29,JSWSTEEL.NS,JSW Steel Q2,company_field,rise,94,1.0,,Bullish,JSW Steel Q2 FY27: Record sales lift profit as balance sheet gets stronger,unclear,unclear,1,False
+116,2026-10-26,07:29,SHRIRAMFIN.NS,Shriram Finance,company_field,fall,96,1.0,,Bullish,"Shriram Finance stock hits 11-month low as growth outlook cut, credit costs weigh; brokerages slash target price",fall,match,1,False
+111,2026-10-27,07:22,INFY.NS,Infosys,company_field,fall,97,1.0,,Neutral,"Nifty IT falls 1.5% as AI trade bounces back on Anthropic IPO filing; TCS, Infosys lead losses",fall,match,1,False
+112,2026-10-27,07:22,TCS.NS,TCS,company_field,fall,97,1.0,,Neutral,"Nifty IT falls 1.5% as AI trade bounces back on Anthropic IPO filing; TCS, Infosys lead losses",fall,match,1,False
+107,2026-10-28,07:58,ADANIPORTS.NS,"Rs 3,682",headline,rise,95,1.0,,Neutral,"Adani Ports Q2 results: Net profit rises 18% YoY to Rs 3,682 crore; revenue jumps 24%, FY27 guidance raised",rise,match,1,False
+105,2026-10-28,07:58,HINDUNILVR.NS,Rs 19,headline,rise,92,1.0,,Neutral,"HUL Q2 results: Net profit rises 6%, beats estimates; company declares Rs 19 dividend",rise,match,2,False
+104,2026-10-28,07:58,KOTAKBANK.NS,Kotak Bank,company_field,fall,91,1.0,,Neutral,"Delhi HC orders removing fake Kotak Bank, securities accounts from social media platforms",unclear,unclear,1,False
+99,2026-10-29,08:06,INDIANCARD.NS,Indian Card Clothing,company_field,rise,95,1.0,,Neutral,"Momentum Stocks: Indian Card Clothing, Shiva Texyarn, Creative Newtech gains up to 8% on sheer momentum",rise,match,1,False
+100,2026-10-29,08:06,MEESHO.NS,Rs 132,headline,fall,96,1.0,,Neutral,Meesho shares trade flat even as Q2 loss narrows to Rs 132 crore; brokerages remain mixed,unclear,unclear,1,False
+101,2026-10-29,08:06,PNBHOUSING.NS,PNB Housing Finance,company_field,fall,96,1.0,,Neutral,"PNB Housing Finance shares fall 3% despite growth in Q2 profit; 3 brokerages say ‘Buy’, see up to 34% upside",fall,match,1,False
+102,2026-10-29,08:06,TITAGARH.NS,Titagarh Rail Systems,company_field,fall,97,1.0,,Neutral,Price Action: Vedanta Aluminium down 3% after CLSA retains 'outperform'; Titagarh Rail Systems share price sheds nearly 4%,fall,match,1,False
+98,2026-10-29,08:06,UNITDSPR.NS,United Spirits,company_field,rise,95,1.0,,Neutral,United Spirits shares rise 4% as gross margins above estimates in Q2; Jefferies sees up to 27% upside,rise,match,1,False
+93,2026-10-30,08:08,INDIGO.NS,InterGlobe Aviation,company_field,rise,94,1.0,,Neutral,Buzzing Stocks: Hikal share price gains 7% after securing Swissmedic GMP certification; InterGlobe Aviation rises 4% as Q2 losses narrow,unclear,unclear,1,False
+94,2026-10-30,08:08,QUICKHEAL.NS,Quick Heal Technologies,company_field,rise,94,1.0,,Neutral,"Momentum Stocks: Borosil, Quick Heal Technologies, Fiberweb India up 7-9% on sheer momentum",unclear,unclear,1,False
+95,2026-10-30,08:08,SUZLON.NS,JM Financial,headline,fall,96,1.0,,Neutral,"Suzlon Energy shares crash 10% after Q2 results; JM Financial downgrades stock to add, revises target price",fall,match,2,False
+97,2026-10-30,08:08,VBL.NS,Varun Beverages,company_field,fall,97,1.0,,Neutral,Varun Beverages shares fall 3% after Q3 results as margins contract despite 14% profit growth,fall,match,1,False
+89,2026-10-31,08:02,MAXHEALTH.NS,Rs 448,headline,rise,95,1.0,,Neutral,Max Healthcare Q2 network PAT up 10% at Rs 448 crore,unclear,unclear,2,False
+85,2026-11-01,08:48,RELIANCE.NS,RIL,company_field,rise,94,1.0,,Neutral,RIL Q2 FY27: O2C business drives record performance,unclear,unclear,1,False
+82,2026-11-02,08:57,POLICYBZR.NS,PB Fintech,company_field,fall,97,1.0,,Neutral,Q2 results impact: PB Fintech shares fall 7% to hit 52-week low amid mixed views from brokerages,fall,match,1,False
+78,2026-11-02,08:57,RELIANCE.NS,Rs 17,headline,rise,94,1.0,,Neutral,Reliance Industries m-cap tops Rs 17 lakh crore as shares surge over 8% after Q2 results; biggest gain in 6 yrs,rise,match,2,False
+80,2026-11-02,08:57,RELIANCE.NS,Reliance Industries',company_field,rise,94,2.0,0.91,Neutral,Nifty gained in 17 of 20 instances after Reliance Industries' stock surged 5% or more,rise,match,1,False
+81,2026-11-02,08:57,SUNPHARMA.NS,Sun Pharma,company_field,fall,97,1.0,,Neutral,Sun Pharma shares fall 3% after Q2 profit plunges 36%; brokerages bullish but slash target prices,fall,match,1,False
+73,2026-11-03,09:04,MARICO.NS,Marico,company_field,rise,94,1.0,,Bullish,Marico shares climb 8% as Q2 results beat estimates on strong demand,rise,match,1,False
+77,2026-11-03,09:04,MOLDTKPAC.NS,Mold-Tek,company_field,rise,95,1.0,,Bullish,"Q2 results impact: Mold-Tek shares extend gains, rise nearly 15% in two sessions",rise,match,1,False
+74,2026-11-03,09:04,VRLLOG.NS,VRL Logistics,company_field,rise,95,1.0,,Bullish,"Buzzing Stocks: Akums Drugs, VRL Logistics, KRBL rally up to 11% after strong Q2 earnings",rise,match,1,False
+68,2026-11-04,08:42,BHEL.NS,BHEL,company_field,rise,95,1.0,,Neutral,BHEL shares rise 6% after getting four orders from Adani Power,rise,match,1,False
+69,2026-11-04,08:42,KEC.NS,KEC International:,company_field,rise,95,1.0,,Neutral,"KEC International: Order book strong, margins and debt are of concern",rise,match,1,False
+71,2026-11-04,08:42,MCX.NS,Neutral,headline,fall,97,1.0,,Neutral,MCX shares fall 5% as Q2 results miss estimates; Motilal Oswal gives 'Neutral' rating,fall,match,2,False
+67,2026-11-06,08:58,CGPOWER.NS,CG Power,company_field,fall,97,1.0,,Neutral,"CG Power, Mtar Tech, Hitachi Energy India, other AI-related shares fall up to 8% amid global tech bloodbath",fall,match,1,False
+66,2026-11-06,08:58,MTARTECH.NS,Mtar Tech,company_field,fall,97,1.0,,Neutral,"CG Power, Mtar Tech, Hitachi Energy India, other AI-related shares fall up to 8% amid global tech bloodbath",fall,match,1,False
+65,2026-11-06,08:58,POWERINDIA.NS,Hitachi Energy,company_field,fall,97,1.0,,Neutral,"CG Power, Mtar Tech, Hitachi Energy India, other AI-related shares fall up to 8% amid global tech bloodbath",fall,match,1,False
+56,2026-11-09,09:14,DIVISLAB.NS,post-Q2,headline,rise,94,1.0,,Neutral,Divi’s Labs shares jump 4% as brokerages see up to 12% upside post-Q2 results; pharma index rises 1.5%,rise,match,1,False
+57,2026-11-09,09:14,MANAPPURAM.NS,Manappuram,company_field,rise,95,1.0,,Neutral,"Muthoot Finance, Manappuram shares gain up to 3% as gold prices rebound",rise,match,1,False
+58,2026-11-09,09:14,MUTHOOTFIN.NS,Muthoot Finance,company_field,rise,95,1.0,,Neutral,"Muthoot Finance, Manappuram shares gain up to 3% as gold prices rebound",rise,match,1,False
+60,2026-11-09,09:14,VOLTAS.NS,Voltas,company_field,fall,97,1.0,,Neutral,"Voltas shares fall nearly 4% intraday on Q2 results but pare losses; brokerages cautious, flag margin risks",fall,match,1,False
+54,2026-11-10,09:21,HCLTECH.NS,HCL Tech,company_field,fall,97,1.0,,Neutral,"Nifty IT index falls over 1% as global AI stocks stage recovery; Mphasis, HCL Tech, Infosys down 2-3%",fall,match,1,False
+53,2026-11-10,09:21,INFY.NS,Infosys,company_field,fall,97,1.0,,Neutral,"Nifty IT index falls over 1% as global AI stocks stage recovery; Mphasis, HCL Tech, Infosys down 2-3%",fall,match,1,False
+55,2026-11-10,09:21,MPHASIS.NS,Mphasis,company_field,fall,97,1.0,,Neutral,"Nifty IT index falls over 1% as global AI stocks stage recovery; Mphasis, HCL Tech, Infosys down 2-3%",fall,match,1,False
+49,2026-11-11,08:55,E2E.NS,E2E Networks,company_field,rise,95,1.0,,Bullish,"Netweb, E2E Networks, other AI-related stocks rise up to 9% as Anthropic IPO, CoreWeave earnings lift global AI sentiment",rise,match,1,False
+50,2026-11-11,08:55,NETWEB.NS,Netweb,company_field,rise,95,1.0,,Bullish,"Netweb, E2E Networks, other AI-related stocks rise up to 9% as Anthropic IPO, CoreWeave earnings lift global AI sentiment",rise,match,1,False
+46,2026-11-11,08:55,TATASTEEL.NS,Tata Steel,company_field,rise,94,1.0,,Bullish,"Tata Steel shares gain 2% as brokerages see stronger India earnings, flag risks in Europe",rise,match,1,False
+42,2026-11-12,09:22,HDFCLIFE.NS,HDFC Life,company_field,rise,95,1.0,,Neutral,"HDFC Life, other life insurance companies' stocks rise up to 4% as 1st-year premium income up 26% YoY in Oct",rise,match,1,False
+45,2026-11-12,09:22,ONGC.NS,ONGC,company_field,fall,97,1.0,,Neutral,"Chennai Petro, ONGC, Oil India fall up to 3% amid declining crude oil prices",fall,match,1,False
+43,2026-11-12,09:22,PAGEIND.NS,Rs 150,headline,rise,95,1.0,,Neutral,"Q2 results LIVE: Page Industries' profit up 3.8% to Rs 202 cr, announces Rs 150 dividend",unclear,unclear,2,False
+39,2026-11-13,09:09,ALKEM.NS,Rs 667,headline,fall,97,1.0,,Neutral,"Alkem Labs' Q2 net profit falls 14% to Rs 667 crore, shares decline 3%",fall,match,2,False
+36,2026-11-13,09:09,IDEA.NS,ARPU,headline,fall,97,1.0,,Neutral,"Vodafone Idea shares fall 2% after Q2 results; Nomura flags margin pressure, weak ARPU growth",fall,match,3,False
